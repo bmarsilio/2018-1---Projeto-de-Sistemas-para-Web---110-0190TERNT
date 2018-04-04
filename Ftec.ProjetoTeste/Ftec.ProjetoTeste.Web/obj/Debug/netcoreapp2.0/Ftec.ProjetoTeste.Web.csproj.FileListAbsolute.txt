@@ -1,0 +1,10 @@
+/home/brunomarsilio/RiderProjects/Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/bin/Debug/netcoreapp2.0/Ftec.ProjetoTeste.Web.deps.json
+/home/brunomarsilio/RiderProjects/Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/bin/Debug/netcoreapp2.0/Ftec.ProjetoTeste.Web.runtimeconfig.json
+/home/brunomarsilio/RiderProjects/Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/bin/Debug/netcoreapp2.0/Ftec.ProjetoTeste.Web.runtimeconfig.dev.json
+/home/brunomarsilio/RiderProjects/Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/bin/Debug/netcoreapp2.0/Ftec.ProjetoTeste.Web.dll
+/home/brunomarsilio/RiderProjects/Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/bin/Debug/netcoreapp2.0/Ftec.ProjetoTeste.Web.pdb
+/home/brunomarsilio/RiderProjects/Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/obj/Debug/netcoreapp2.0/Ftec.ProjetoTeste.Web.csproj.CoreCompileInputs.cache
+/home/brunomarsilio/RiderProjects/Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/obj/Debug/netcoreapp2.0/Ftec.ProjetoTeste.Web.AssemblyInfoInputs.cache
+/home/brunomarsilio/RiderProjects/Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/obj/Debug/netcoreapp2.0/Ftec.ProjetoTeste.Web.AssemblyInfo.cs
+/home/brunomarsilio/RiderProjects/Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/obj/Debug/netcoreapp2.0/Ftec.ProjetoTeste.Web.dll
+/home/brunomarsilio/RiderProjects/Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/obj/Debug/netcoreapp2.0/Ftec.ProjetoTeste.Web.pdb

@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Formulario";
+}
+<h2>@ViewData["Title"]</h2>
+
+<div class="container">
+    
+    <a href="/Categoria" class="btn btn-default">
+        Voltar
+    </a>
+    
+    <form action="/Categoria/Adiciona" method="POST">
+        
+        <div class="form-group">
+            <label for="nome">Descrição:</label>
+            <input type="text" class="form-control" name="categoriaProduto.Descricao" id="descricao" />
+        </div>
+        
+        <div class="form-group">
+            <input type="submit" class="btn btn-primary" value="Gravar"/>
+        </div>
+        
+    </form>
+    
+</div>
