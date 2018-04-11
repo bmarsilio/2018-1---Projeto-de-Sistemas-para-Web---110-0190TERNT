@@ -12,20 +12,37 @@ namespace blogNetCore.Controllers
     {
         public IActionResult Index()
         {
+            ViewData["title"] = "Home";
+            ViewBag.subtitulo = "Home";
+            ViewBag.imagemFundo = "home-bg.jpg";
+            
             return View();
         }
-
-        public IActionResult About()
+        
+        public IActionResult Sobre()
         {
-            ViewData["Message"] = "Your application description page.";
-
+            ViewData["title"] = "Sobre";
+            ViewBag.subtitulo = "Sobre";
+            ViewBag.imagemFundo = "about-bg.jpg";
+            
             return View();
         }
-
-        public IActionResult Contact()
+        
+        public IActionResult Contato()
         {
-            ViewData["Message"] = "Your contact page.";
-
+            ViewData["title"] = "Contato";
+            ViewBag.subtitulo = "Contato";
+            ViewBag.imagemFundo = "contact-bg.jpg";
+            
+            return View();
+        }
+        
+        public IActionResult Post()
+        {
+            ViewData["title"] = "Post";
+            ViewBag.subtitulo = "Post 123";
+            ViewBag.imagemFundo = "post-bg.jpg";
+            
             return View();
         }
 

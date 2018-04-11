@@ -11,81 +11,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_Navbar.cshtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_Navbar.cshtml">
+      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/HomeController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="569">
-              <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+            <state relative-caret-position="377">
+              <caret line="42" column="29" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="29" />
               <folding>
-                <marker date="1523406854819" expanded="true" signature="20:1294" ph="&lt;nav.../&gt;" />
-                <marker date="1523406854819" expanded="true" signature="91:1262" ph="&lt;div.../&gt;" />
-                <marker date="1523406854819" expanded="true" signature="201:586" ph="&lt;div.../&gt;" />
-                <marker date="1523406854819" expanded="true" signature="253:497" ph="&lt;button.../&gt;" />
-                <marker date="1523406854819" expanded="true" signature="674:1216" ph="&lt;div.../&gt;" />
-                <marker date="1523406854819" expanded="true" signature="759:1201" ph="&lt;ul.../&gt;" />
-                <marker date="1523406854819" expanded="true" signature="816:892" ph="&lt;li.../&gt;" />
-                <marker date="1523406854819" expanded="true" signature="909:986" ph="&lt;li.../&gt;" />
-                <marker date="1523406854819" expanded="true" signature="1003:1085" ph="&lt;li.../&gt;" />
-                <marker date="1523406854819" expanded="true" signature="1102:1183" ph="&lt;li.../&gt;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Index.cshtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1523406896651" expanded="true" signature="22:2404" ph="&lt;div.../&gt;" />
-                <marker date="1523406896651" expanded="true" signature="50:2397" ph="&lt;div.../&gt;" />
-                <marker date="1523406896651" expanded="true" signature="76:2386" ph="&lt;div.../&gt;" />
-                <marker date="1523406896651" expanded="true" signature="153:655" ph="&lt;div.../&gt;" />
-                <marker date="1523406896651" expanded="true" signature="196:531" ph="&lt;a.../&gt;" />
-                <marker date="1523406896651" expanded="true" signature="237:368" ph="&lt;h2.../&gt;" />
-                <marker date="1523406896651" expanded="true" signature="389:510" ph="&lt;h3.../&gt;" />
-                <marker date="1523406896651" expanded="true" signature="685:1081" ph="&lt;div.../&gt;" />
-                <marker date="1523406896651" expanded="true" signature="728:957" ph="&lt;a.../&gt;" />
-                <marker date="1523406896651" expanded="true" signature="769:936" ph="&lt;h2.../&gt;" />
-                <marker date="1523406896651" expanded="true" signature="1111:1624" ph="&lt;div.../&gt;" />
-                <marker date="1523406896651" expanded="true" signature="1154:1503" ph="&lt;a.../&gt;" />
-                <marker date="1523406896651" expanded="true" signature="1195:1306" ph="&lt;h2.../&gt;" />
-                <marker date="1523406896651" expanded="true" signature="1327:1482" ph="&lt;h3.../&gt;" />
-                <marker date="1523406896651" expanded="true" signature="1654:2167" ph="&lt;div.../&gt;" />
-                <marker date="1523406896651" expanded="true" signature="1697:2049" ph="&lt;a.../&gt;" />
-                <marker date="1523406896651" expanded="true" signature="1738:1836" ph="&lt;h2.../&gt;" />
-                <marker date="1523406896651" expanded="true" signature="1857:2028" ph="&lt;h3.../&gt;" />
-                <marker date="1523406896651" expanded="true" signature="2224:2371" ph="&lt;ul.../&gt;" />
-                <marker date="1523406896651" expanded="true" signature="2259:2353" ph="&lt;li.../&gt;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_Layout.cshtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_Layout.cshtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-              <folding>
-                <marker date="1523406899095" expanded="true" signature="16:3228" ph="&lt;html.../&gt;" />
-                <marker date="1523406899095" expanded="true" signature="34:1346" ph="&lt;head.../&gt;" />
-                <marker date="1523406899095" expanded="true" signature="1348:3219" ph="&lt;body.../&gt;" />
-                <marker date="1523406899095" expanded="true" signature="1419:2882" ph="&lt;footer.../&gt;" />
-                <marker date="1523406899095" expanded="true" signature="1432:2872" ph="&lt;div.../&gt;" />
-                <marker date="1523406899095" expanded="true" signature="1464:2861" ph="&lt;div.../&gt;" />
-                <marker date="1523406899095" expanded="true" signature="1494:2846" ph="&lt;div.../&gt;" />
-                <marker date="1523406899095" expanded="true" signature="1575:2740" ph="&lt;ul.../&gt;" />
-                <marker date="1523406899095" expanded="true" signature="1632:1980" ph="&lt;li.../&gt;" />
-                <marker date="1523406899095" expanded="true" signature="1661:1954" ph="&lt;a.../&gt;" />
-                <marker date="1523406899095" expanded="true" signature="1702:1925" ph="&lt;span.../&gt;" />
-                <marker date="1523406899095" expanded="true" signature="2001:2350" ph="&lt;li.../&gt;" />
-                <marker date="1523406899095" expanded="true" signature="2030:2324" ph="&lt;a.../&gt;" />
-                <marker date="1523406899095" expanded="true" signature="2071:2295" ph="&lt;span.../&gt;" />
-                <marker date="1523406899095" expanded="true" signature="2371:2718" ph="&lt;li.../&gt;" />
-                <marker date="1523406899095" expanded="true" signature="2400:2692" ph="&lt;a.../&gt;" />
-                <marker date="1523406899095" expanded="true" signature="2441:2663" ph="&lt;span.../&gt;" />
+                <marker date="1523408002092" expanded="false" signature="6:180" ph="..." />
+                <marker date="1523408002092" expanded="true" signature="215:1393" ph="{...}" />
+                <marker date="1523408002092" expanded="true" signature="262:1391" ph="{...}" />
+                <marker date="1523408002092" expanded="true" signature="305:494" ph="{...}" />
+                <marker date="1523408002092" expanded="true" signature="540:732" ph="{...}" />
+                <marker date="1523408002092" expanded="true" signature="780:978" ph="{...}" />
+                <marker date="1523408002092" expanded="true" signature="1023:1216" ph="{...}" />
+                <marker date="1523408002092" expanded="true" signature="1254:1385" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -101,16 +40,24 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/blogNetCore/Views/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Contato.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Sobre.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_Navbar.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Post.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/blogNetCore/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/blogNetCore/Views/_ViewStart.cshtml" />
-        <option value="$PROJECT_DIR$/blogNetCore/Views/Shared/_Navbar.cshtml" />
+        <option value="$PROJECT_DIR$/blogNetCore/Views/Home/Sobre.cshtml" />
+        <option value="$PROJECT_DIR$/blogNetCore/Views/Home/Contato.cshtml" />
         <option value="$PROJECT_DIR$/blogNetCore/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/blogNetCore/Views/Shared/_Navbar.cshtml" />
+        <option value="$PROJECT_DIR$/blogNetCore/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/blogNetCore/Views/Home/Post.cshtml" />
         <option value="$PROJECT_DIR$/blogNetCore/Views/Home/Index.cshtml" />
       </list>
     </option>
@@ -157,6 +104,18 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="blogNetCore (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="blogNetCore" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="blogNetCore (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="blogNetCore" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="blogNetCore (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="blogNetCore" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
@@ -165,6 +124,13 @@
               <item name="blogNetCore" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Home" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="blogNetCore (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="blogNetCore" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Shared" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -179,6 +145,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ftec.ProjetoTeste/Ftec.ProjetoTeste.sln" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -227,12 +194,13 @@
       <option name="presentableId" value="Default" />
       <updated>1523405319222</updated>
       <workItem from="1523405320614" duration="1027000" />
-      <workItem from="1523406370342" duration="536000" />
+      <workItem from="1523406370342" duration="1452000" />
+      <workItem from="1523407845030" duration="323000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1563000" />
+    <option name="totallyTimeSpent" value="2802000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -250,11 +218,11 @@
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4887097" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25757575" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26136363" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -281,28 +249,154 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_Navbar.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <marker date="1523407960867" expanded="true" signature="20:1178" ph="&lt;nav.../&gt;" />
+            <marker date="1523407960867" expanded="true" signature="91:1146" ph="&lt;div.../&gt;" />
+            <marker date="1523407960867" expanded="true" signature="201:576" ph="&lt;div.../&gt;" />
+            <marker date="1523407960867" expanded="true" signature="253:497" ph="&lt;button.../&gt;" />
+            <marker date="1523407960867" expanded="true" signature="664:1100" ph="&lt;div.../&gt;" />
+            <marker date="1523407960867" expanded="true" signature="749:1085" ph="&lt;ul.../&gt;" />
+            <marker date="1523407960867" expanded="true" signature="806:873" ph="&lt;li.../&gt;" />
+            <marker date="1523407960867" expanded="true" signature="890:968" ph="&lt;li.../&gt;" />
+            <marker date="1523407960867" expanded="true" signature="985:1067" ph="&lt;li.../&gt;" />
+            <marker date="1523407960867" expanded="true" signature="1271:1768" ph="&lt;header.../&gt;" />
+            <marker date="1523407960867" expanded="true" signature="1367:1758" ph="&lt;div.../&gt;" />
+            <marker date="1523407960867" expanded="true" signature="1399:1747" ph="&lt;div.../&gt;" />
+            <marker date="1523407960867" expanded="true" signature="1429:1732" ph="&lt;div.../&gt;" />
+            <marker date="1523407960867" expanded="true" signature="1510:1713" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding>
+            <marker date="1523408002092" expanded="false" signature="6:180" ph="..." />
+            <marker date="1523408002092" expanded="true" signature="215:1393" ph="{...}" />
+            <marker date="1523408002092" expanded="true" signature="262:1391" ph="{...}" />
+            <marker date="1523408002092" expanded="true" signature="305:494" ph="{...}" />
+            <marker date="1523408002092" expanded="true" signature="540:732" ph="{...}" />
+            <marker date="1523408002092" expanded="true" signature="780:978" ph="{...}" />
+            <marker date="1523408002092" expanded="true" signature="1023:1216" ph="{...}" />
+            <marker date="1523408002092" expanded="true" signature="1254:1385" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Sobre.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1523407350972" expanded="true" signature="29:874" ph="&lt;div.../&gt;" />
+            <marker date="1523407350972" expanded="true" signature="55:863" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Contato.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="6" />
+          <folding>
+            <marker date="1523407702125" expanded="true" signature="28:3014" ph="&lt;div.../&gt;" />
+            <marker date="1523407702125" expanded="true" signature="54:3003" ph="&lt;div.../&gt;" />
+            <marker date="1523407702125" expanded="true" signature="729:2988" ph="&lt;form.../&gt;" />
+            <marker date="1523407702125" expanded="true" signature="799:1239" ph="&lt;div.../&gt;" />
+            <marker date="1523407702125" expanded="true" signature="851:1216" ph="&lt;div.../&gt;" />
+            <marker date="1523407702125" expanded="true" signature="1256:1725" ph="&lt;div.../&gt;" />
+            <marker date="1523407702125" expanded="true" signature="1308:1702" ph="&lt;div.../&gt;" />
+            <marker date="1523407702125" expanded="true" signature="1742:2206" ph="&lt;div.../&gt;" />
+            <marker date="1523407702125" expanded="true" signature="1794:2183" ph="&lt;div.../&gt;" />
+            <marker date="1523407702125" expanded="true" signature="2223:2683" ph="&lt;div.../&gt;" />
+            <marker date="1523407702125" expanded="true" signature="2275:2660" ph="&lt;div.../&gt;" />
+            <marker date="1523407702125" expanded="true" signature="2762:2968" ph="&lt;div.../&gt;" />
+            <marker date="1523407702125" expanded="true" signature="2800:2945" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" column="20" lean-forward="false" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+          <folding>
+            <marker date="1523407909182" expanded="true" signature="16:3242" ph="&lt;html.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="34:1356" ph="&lt;head.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1358:3233" ph="&lt;body.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1429:2892" ph="&lt;footer.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1442:2882" ph="&lt;div.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1474:2871" ph="&lt;div.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1504:2856" ph="&lt;div.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1585:2750" ph="&lt;ul.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1642:1990" ph="&lt;li.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1671:1964" ph="&lt;a.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1712:1935" ph="&lt;span.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="2011:2360" ph="&lt;li.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="2040:2334" ph="&lt;a.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="2081:2305" ph="&lt;span.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="2381:2728" ph="&lt;li.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="2410:2702" ph="&lt;a.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="2451:2673" ph="&lt;span.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="48" column="16" lean-forward="false" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+          <folding>
+            <marker date="1523408080465" expanded="true" signature="22:2221" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="50:2214" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="76:2203" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="153:656" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="196:532" ph="&lt;a.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="238:369" ph="&lt;h2.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="390:511" ph="&lt;h3.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="686:1083" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="729:959" ph="&lt;a.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="771:938" ph="&lt;h2.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1113:1627" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1156:1506" ph="&lt;a.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1198:1309" ph="&lt;h2.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1330:1485" ph="&lt;h3.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1657:2171" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1700:2053" ph="&lt;a.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1742:1840" ph="&lt;h2.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1861:2032" ph="&lt;h3.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_Layout.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1523406899095" expanded="true" signature="16:3228" ph="&lt;html.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="34:1346" ph="&lt;head.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="1348:3219" ph="&lt;body.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="1419:2882" ph="&lt;footer.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="1432:2872" ph="&lt;div.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="1464:2861" ph="&lt;div.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="1494:2846" ph="&lt;div.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="1575:2740" ph="&lt;ul.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="1632:1980" ph="&lt;li.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="1661:1954" ph="&lt;a.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="1702:1925" ph="&lt;span.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="2001:2350" ph="&lt;li.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="2030:2324" ph="&lt;a.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="2071:2295" ph="&lt;span.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="2371:2718" ph="&lt;li.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="2400:2692" ph="&lt;a.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="2441:2663" ph="&lt;span.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="16:3242" ph="&lt;html.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="34:1356" ph="&lt;head.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1358:3233" ph="&lt;body.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1429:2892" ph="&lt;footer.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1442:2882" ph="&lt;div.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1474:2871" ph="&lt;div.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1504:2856" ph="&lt;div.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1585:2750" ph="&lt;ul.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1642:1990" ph="&lt;li.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1671:1964" ph="&lt;a.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1712:1935" ph="&lt;span.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="2011:2360" ph="&lt;li.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="2040:2334" ph="&lt;a.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="2081:2305" ph="&lt;span.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="2381:2728" ph="&lt;li.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="2410:2702" ph="&lt;a.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="2451:2673" ph="&lt;span.../&gt;" />
           </folding>
         </state>
       </provider>
@@ -312,26 +406,24 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1523406896651" expanded="true" signature="22:2404" ph="&lt;div.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="50:2397" ph="&lt;div.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="76:2386" ph="&lt;div.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="153:655" ph="&lt;div.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="196:531" ph="&lt;a.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="237:368" ph="&lt;h2.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="389:510" ph="&lt;h3.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="685:1081" ph="&lt;div.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="728:957" ph="&lt;a.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="769:936" ph="&lt;h2.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="1111:1624" ph="&lt;div.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="1154:1503" ph="&lt;a.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="1195:1306" ph="&lt;h2.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="1327:1482" ph="&lt;h3.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="1654:2167" ph="&lt;div.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="1697:2049" ph="&lt;a.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="1738:1836" ph="&lt;h2.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="1857:2028" ph="&lt;h3.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="2224:2371" ph="&lt;ul.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="2259:2353" ph="&lt;li.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="22:2221" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="50:2214" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="76:2203" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="153:656" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="196:532" ph="&lt;a.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="238:369" ph="&lt;h2.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="390:511" ph="&lt;h3.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="686:1083" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="729:959" ph="&lt;a.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="771:938" ph="&lt;h2.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1113:1627" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1156:1506" ph="&lt;a.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1198:1309" ph="&lt;h2.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1330:1485" ph="&lt;h3.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1657:2171" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1700:2053" ph="&lt;a.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1742:1840" ph="&lt;h2.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1861:2032" ph="&lt;h3.../&gt;" />
           </folding>
         </state>
       </provider>
@@ -350,13 +442,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Home/About.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Home/About.cshtml" />
     <entry file="file://$PROJECT_DIR$/blogNetCore/wwwroot/css/clean-blog.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -383,76 +469,142 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_Navbar.cshtml">
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Sobre.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding>
-            <marker date="1523406854819" expanded="true" signature="20:1294" ph="&lt;nav.../&gt;" />
-            <marker date="1523406854819" expanded="true" signature="91:1262" ph="&lt;div.../&gt;" />
-            <marker date="1523406854819" expanded="true" signature="201:586" ph="&lt;div.../&gt;" />
-            <marker date="1523406854819" expanded="true" signature="253:497" ph="&lt;button.../&gt;" />
-            <marker date="1523406854819" expanded="true" signature="674:1216" ph="&lt;div.../&gt;" />
-            <marker date="1523406854819" expanded="true" signature="759:1201" ph="&lt;ul.../&gt;" />
-            <marker date="1523406854819" expanded="true" signature="816:892" ph="&lt;li.../&gt;" />
-            <marker date="1523406854819" expanded="true" signature="909:986" ph="&lt;li.../&gt;" />
-            <marker date="1523406854819" expanded="true" signature="1003:1085" ph="&lt;li.../&gt;" />
-            <marker date="1523406854819" expanded="true" signature="1102:1183" ph="&lt;li.../&gt;" />
+            <marker date="1523407350972" expanded="true" signature="29:874" ph="&lt;div.../&gt;" />
+            <marker date="1523407350972" expanded="true" signature="55:863" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Contato.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="6" />
+          <folding>
+            <marker date="1523407702125" expanded="true" signature="28:3014" ph="&lt;div.../&gt;" />
+            <marker date="1523407702125" expanded="true" signature="54:3003" ph="&lt;div.../&gt;" />
+            <marker date="1523407702125" expanded="true" signature="729:2988" ph="&lt;form.../&gt;" />
+            <marker date="1523407702125" expanded="true" signature="799:1239" ph="&lt;div.../&gt;" />
+            <marker date="1523407702125" expanded="true" signature="851:1216" ph="&lt;div.../&gt;" />
+            <marker date="1523407702125" expanded="true" signature="1256:1725" ph="&lt;div.../&gt;" />
+            <marker date="1523407702125" expanded="true" signature="1308:1702" ph="&lt;div.../&gt;" />
+            <marker date="1523407702125" expanded="true" signature="1742:2206" ph="&lt;div.../&gt;" />
+            <marker date="1523407702125" expanded="true" signature="1794:2183" ph="&lt;div.../&gt;" />
+            <marker date="1523407702125" expanded="true" signature="2223:2683" ph="&lt;div.../&gt;" />
+            <marker date="1523407702125" expanded="true" signature="2275:2660" ph="&lt;div.../&gt;" />
+            <marker date="1523407702125" expanded="true" signature="2762:2968" ph="&lt;div.../&gt;" />
+            <marker date="1523407702125" expanded="true" signature="2800:2945" ph="&lt;div.../&gt;" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_Layout.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        <state relative-caret-position="198">
+          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
           <folding>
-            <marker date="1523406899095" expanded="true" signature="16:3228" ph="&lt;html.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="34:1346" ph="&lt;head.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="1348:3219" ph="&lt;body.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="1419:2882" ph="&lt;footer.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="1432:2872" ph="&lt;div.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="1464:2861" ph="&lt;div.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="1494:2846" ph="&lt;div.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="1575:2740" ph="&lt;ul.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="1632:1980" ph="&lt;li.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="1661:1954" ph="&lt;a.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="1702:1925" ph="&lt;span.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="2001:2350" ph="&lt;li.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="2030:2324" ph="&lt;a.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="2071:2295" ph="&lt;span.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="2371:2718" ph="&lt;li.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="2400:2692" ph="&lt;a.../&gt;" />
-            <marker date="1523406899095" expanded="true" signature="2441:2663" ph="&lt;span.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="16:3242" ph="&lt;html.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="34:1356" ph="&lt;head.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1358:3233" ph="&lt;body.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1429:2892" ph="&lt;footer.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1442:2882" ph="&lt;div.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1474:2871" ph="&lt;div.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1504:2856" ph="&lt;div.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1585:2750" ph="&lt;ul.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1642:1990" ph="&lt;li.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1671:1964" ph="&lt;a.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1712:1935" ph="&lt;span.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="2011:2360" ph="&lt;li.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="2040:2334" ph="&lt;a.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="2081:2305" ph="&lt;span.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="2381:2728" ph="&lt;li.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="2410:2702" ph="&lt;a.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="2451:2673" ph="&lt;span.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_Navbar.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="38" column="38" lean-forward="false" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+          <folding>
+            <marker date="1523407960867" expanded="true" signature="20:1178" ph="&lt;nav.../&gt;" />
+            <marker date="1523407960867" expanded="true" signature="91:1146" ph="&lt;div.../&gt;" />
+            <marker date="1523407960867" expanded="true" signature="201:576" ph="&lt;div.../&gt;" />
+            <marker date="1523407960867" expanded="true" signature="253:497" ph="&lt;button.../&gt;" />
+            <marker date="1523407960867" expanded="true" signature="664:1100" ph="&lt;div.../&gt;" />
+            <marker date="1523407960867" expanded="true" signature="749:1085" ph="&lt;ul.../&gt;" />
+            <marker date="1523407960867" expanded="true" signature="806:873" ph="&lt;li.../&gt;" />
+            <marker date="1523407960867" expanded="true" signature="890:968" ph="&lt;li.../&gt;" />
+            <marker date="1523407960867" expanded="true" signature="985:1067" ph="&lt;li.../&gt;" />
+            <marker date="1523407960867" expanded="true" signature="1271:1768" ph="&lt;header.../&gt;" />
+            <marker date="1523407960867" expanded="true" signature="1367:1758" ph="&lt;div.../&gt;" />
+            <marker date="1523407960867" expanded="true" signature="1399:1747" ph="&lt;div.../&gt;" />
+            <marker date="1523407960867" expanded="true" signature="1429:1732" ph="&lt;div.../&gt;" />
+            <marker date="1523407960867" expanded="true" signature="1510:1713" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Post.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="29" column="64" lean-forward="false" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="64" />
+          <folding>
+            <marker date="1523408044037" expanded="true" signature="0:4023" ph="&lt;article.../&gt;" />
+            <marker date="1523408044037" expanded="true" signature="18:4008" ph="&lt;div.../&gt;" />
+            <marker date="1523408044037" expanded="true" signature="54:3993" ph="&lt;div.../&gt;" />
+            <marker date="1523408044037" expanded="true" signature="88:3974" ph="&lt;div.../&gt;" />
+            <marker date="1523408044037" expanded="true" signature="3017:3150" ph="&lt;a.../&gt;" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Index.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="215">
+          <caret line="38" column="35" lean-forward="false" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
           <folding>
-            <marker date="1523406896651" expanded="true" signature="22:2404" ph="&lt;div.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="50:2397" ph="&lt;div.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="76:2386" ph="&lt;div.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="153:655" ph="&lt;div.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="196:531" ph="&lt;a.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="237:368" ph="&lt;h2.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="389:510" ph="&lt;h3.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="685:1081" ph="&lt;div.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="728:957" ph="&lt;a.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="769:936" ph="&lt;h2.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="1111:1624" ph="&lt;div.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="1154:1503" ph="&lt;a.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="1195:1306" ph="&lt;h2.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="1327:1482" ph="&lt;h3.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="1654:2167" ph="&lt;div.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="1697:2049" ph="&lt;a.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="1738:1836" ph="&lt;h2.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="1857:2028" ph="&lt;h3.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="2224:2371" ph="&lt;ul.../&gt;" />
-            <marker date="1523406896651" expanded="true" signature="2259:2353" ph="&lt;li.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="22:2221" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="50:2214" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="76:2203" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="153:656" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="196:532" ph="&lt;a.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="238:369" ph="&lt;h2.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="390:511" ph="&lt;h3.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="686:1083" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="729:959" ph="&lt;a.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="771:938" ph="&lt;h2.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1113:1627" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1156:1506" ph="&lt;a.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1198:1309" ph="&lt;h2.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1330:1485" ph="&lt;h3.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1657:2171" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1700:2053" ph="&lt;a.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1742:1840" ph="&lt;h2.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1861:2032" ph="&lt;h3.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="42" column="29" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="29" />
+          <folding>
+            <marker date="1523408002092" expanded="false" signature="6:180" ph="..." />
+            <marker date="1523408002092" expanded="true" signature="215:1393" ph="{...}" />
+            <marker date="1523408002092" expanded="true" signature="262:1391" ph="{...}" />
+            <marker date="1523408002092" expanded="true" signature="305:494" ph="{...}" />
+            <marker date="1523408002092" expanded="true" signature="540:732" ph="{...}" />
+            <marker date="1523408002092" expanded="true" signature="780:978" ph="{...}" />
+            <marker date="1523408002092" expanded="true" signature="1023:1216" ph="{...}" />
+            <marker date="1523408002092" expanded="true" signature="1254:1385" ph="{...}" />
           </folding>
         </state>
       </provider>
