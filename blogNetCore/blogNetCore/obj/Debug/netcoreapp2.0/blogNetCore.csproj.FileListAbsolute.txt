@@ -1,0 +1,10 @@
+/home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/bin/Debug/netcoreapp2.0/blogNetCore.deps.json
+/home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/bin/Debug/netcoreapp2.0/blogNetCore.runtimeconfig.json
+/home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/bin/Debug/netcoreapp2.0/blogNetCore.runtimeconfig.dev.json
+/home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/bin/Debug/netcoreapp2.0/blogNetCore.dll
+/home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/bin/Debug/netcoreapp2.0/blogNetCore.pdb
+/home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.csproj.CoreCompileInputs.cache
+/home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.AssemblyInfoInputs.cache
+/home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.AssemblyInfo.cs
+/home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.dll
+/home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.pdb
