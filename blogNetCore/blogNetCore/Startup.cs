@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace GestaoDeOrcamentoWeb
+namespace blogNetCore
 {
     public class Startup
     {

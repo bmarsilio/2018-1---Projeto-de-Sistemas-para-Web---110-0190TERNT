@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using GestaoDeOrcamentoWeb.Models;
+using blogNetCore.Models;
 
-namespace GestaoDeOrcamentoWeb.Controllers
+namespace blogNetCore.Controllers
 {
     public class HomeController : Controller
     {

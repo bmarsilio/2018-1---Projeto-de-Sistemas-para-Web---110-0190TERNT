@@ -7,10 +7,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("GestaoDeOrcamentoWeb")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("blogNetCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("GestaoDeOrcamentoWeb")]
-[assembly: System.Reflection.AssemblyTitleAttribute("GestaoDeOrcamentoWeb")]
+[assembly: System.Reflection.AssemblyProductAttribute("blogNetCore")]
+[assembly: System.Reflection.AssemblyTitleAttribute("blogNetCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
