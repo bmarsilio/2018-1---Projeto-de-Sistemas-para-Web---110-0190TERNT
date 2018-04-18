@@ -1,0 +1,51 @@
+﻿@{
+    Layout = "_LayoutAdmin";
+}
+
+<div class="container">
+    
+    <a href="/Post" class="btn btn-default">Voltar</a>
+    
+    <hr />
+    
+    <form action="#" method="POST">
+        
+        <div class="form-group">
+            
+            <label for="categoria">Categoria: *</label>
+            <select class="form-control" name="categoria" required="required">
+                <option>Categoria 1</option>
+                <option>Categoria 2</option>
+            </select>
+            
+        </div>
+        
+        <div class="form-group">
+            <label for="titulo">Título: *</label>
+            <input type="text" class="form-control" name="titulo" required="required" value="post 1"/>
+        </div>
+        
+        <div class="form-group">
+            <label for="conteudo">Conteúdo: *</label>
+            <textarea class="form-control" name="conteudo" required="required">conteudo 1</textarea>
+        </div>
+        
+        <div class="form-group">
+            <label for="resumo">Resumo:</label>
+            <textarea class="form-control" name="resumo">resumo 1</textarea>
+        </div>
+        
+        <div class="form-group">
+            <label for="tag">Tag: </label>
+            <input type="text" class="form-control" name="tag" value="tag1"/>
+        </div>
+        
+        <hr />
+        
+        <div class="form-group">
+            <input type="submit" class="btn btn-success" value="Enviar"/>
+        </div>
+        
+    </form>
+    
+</div>

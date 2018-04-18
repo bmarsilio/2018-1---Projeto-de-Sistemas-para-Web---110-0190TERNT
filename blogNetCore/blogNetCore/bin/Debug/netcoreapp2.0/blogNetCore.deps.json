@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "7c6491b782d123313f51c5d8be7df63ef9431974"
+    "signature": "383779c5a78513a0dfcfd2e40665777a89529dc2"
   },
   "compilationOptions": {
     "defines": [
@@ -24,7 +24,8 @@
       "blogNetCore/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.All": "2.0.5",
-          "Microsoft.NETCore.App": "2.0.0"
+          "Microsoft.NETCore.App": "2.0.0",
+          "SweetAlert.Bootstrap": "1.0.1"
         },
         "runtime": {
           "blogNetCore.dll": {}
@@ -33,6 +34,12 @@
           "blogNetCore.dll": {}
         }
       },
+      "bootstrap/3.0.1": {
+        "dependencies": {
+          "jQuery": "1.9.0"
+        }
+      },
+      "jQuery/1.9.0": {},
       "Libuv/1.10.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "2.0.0"
@@ -2653,6 +2660,11 @@
           "lib/netstandard1.5/StackExchange.Redis.StrongName.dll": {}
         }
       },
+      "SweetAlert.Bootstrap/1.0.1": {
+        "dependencies": {
+          "Twitter.Bootstrap": "3.0.1.1"
+        }
+      },
       "System.AppContext/4.3.0": {
         "dependencies": {
           "System.Runtime": "4.3.0"
@@ -3780,6 +3792,11 @@
           "System.Xml.XPath": "4.3.0"
         }
       },
+      "Twitter.Bootstrap/3.0.1.1": {
+        "dependencies": {
+          "bootstrap": "3.0.1"
+        }
+      },
       "WindowsAzure.Storage/8.1.4": {
         "dependencies": {
           "Microsoft.Data.OData": "5.8.2",
@@ -3977,6 +3994,20 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "bootstrap/3.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rwpiPJiWRbGRypo/NnyqzwS9hWLMLujLU1vM2OfeuZJ2yNGb86RzmQKEcWbewWu+eJkcYatCqpn/U5zNgotVHQ==",
+      "path": "bootstrap/3.0.1",
+      "hashPath": "bootstrap.3.0.1.nupkg.sha512"
+    },
+    "jQuery/1.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bS6OGSd/QL39vKKhATpeehgZDCzV6foRJ52EocEGAB29VetwXkQHN6KQIBlBbW9VJzuHr+rQxHYZ13MnPGQ/vw==",
+      "path": "jquery/1.9.0",
+      "hashPath": "jquery.1.9.0.nupkg.sha512"
     },
     "Libuv/1.10.0": {
       "type": "package",
@@ -5329,6 +5360,13 @@
       "path": "stackexchange.redis.strongname/1.2.4",
       "hashPath": "stackexchange.redis.strongname.1.2.4.nupkg.sha512"
     },
+    "SweetAlert.Bootstrap/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GOwRZiUaTDUegSgIwz+0kiW7ChrrXaM7vPCVfkynT4LX8hW1lA8mPfDZr454CnNbd/KXT2oywPio66zRemlaaA==",
+      "path": "sweetalert.bootstrap/1.0.1",
+      "hashPath": "sweetalert.bootstrap.1.0.1.nupkg.sha512"
+    },
     "System.AppContext/4.3.0": {
       "type": "package",
       "serviceable": true,
@@ -5972,6 +6010,13 @@
       "sha512": "sha512-jw9oHHEIVW53mHY9PgrQa98Xo2IZ0ZjrpdOTmtvk+Rvg4tq7dydmxdNqUvJ5YwjDqhn75mBXWttWjiKhWP53LQ==",
       "path": "system.xml.xpath.xdocument/4.3.0",
       "hashPath": "system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
+    },
+    "Twitter.Bootstrap/3.0.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9SzxEOEB/rKKeTO/2Tv9uPRzQg/chRfofY9yZ71Sgpxfubp1IXiQlRRFc7IhH+fxo3S/u0umS4dUSgHeYnFIsw==",
+      "path": "twitter.bootstrap/3.0.1.1",
+      "hashPath": "twitter.bootstrap.3.0.1.1.nupkg.sha512"
     },
     "WindowsAzure.Storage/8.1.4": {
       "type": "package",

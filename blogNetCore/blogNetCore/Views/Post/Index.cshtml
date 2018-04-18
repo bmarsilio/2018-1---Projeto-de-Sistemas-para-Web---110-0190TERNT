@@ -1,0 +1,65 @@
+﻿@{
+    Layout = "_LayoutAdmin";
+}
+
+<div class="container">
+    
+    <a href="/Post/Create" class="btn btn-default">Novo post</a>
+    
+    <hr />
+    
+    <table class="table">
+        
+        <thead>
+        <tr>
+            <th>#</th>
+            <th>Categoria</th>
+            <th>Título</th>
+            <th></th>
+        </tr>
+        </thead>
+        
+        <tbody>
+        <tr>
+            <td>1</td>
+            <td>Categoria 1</td>
+            <td>Título 1</td>
+            <td>
+                <a href="/Post/Edit" class="btn btn-primary">Editar</a>
+                <button class="btn btn-danger" onclick="confirmaExclusao()">Excluir</button>
+            </td>
+        </tr>
+        </tbody>
+        
+    </table>
+    
+</div>
+
+<script>
+
+    function confirmaExclusao() {
+
+        swal({
+            title: 'ATENÇÃO!',
+            text: "Confirmar a exclusão deste registro?",
+            type: 'warning',
+            showCancelButton: true,
+            confirmButtonColor: '#3085d6',
+            cancelButtonColor: '#d33',
+            confirmButtonText: 'Confirmar',
+            cancelButtonText: 'Cancelar'
+        }).then(function () {
+            swal({
+                title: 'Ok!',
+                text: 'Registro excluído com sucesso!',
+                type: 'success',
+                allowOutsideClick: false,
+                allowEscapeKey:false
+            }).then(function () {
+                location.reload();
+            });
+        });
+
+    }
+
+</script>

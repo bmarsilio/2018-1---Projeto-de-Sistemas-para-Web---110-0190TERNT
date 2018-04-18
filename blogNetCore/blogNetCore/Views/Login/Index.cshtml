@@ -1,0 +1,30 @@
+﻿@{
+    Layout = "_LayoutLogin";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-offset-4 col-md-6">
+            <div class="form-login">
+                
+                <h4>Bem vindo!</h4>
+                
+                <form action="/Login/Autenticar" method="POST">
+                    
+                    <input type="text" id="usuario" class="form-control input-sm chat-input" placeholder="usuario" />
+                    <br />
+                    
+                    <input type="text" id="senha" class="form-control input-sm chat-input" placeholder="senha" />
+                    <br />
+                    
+                    <div class="wrapper">
+                        <span class="group-btn">     
+                            <input type="submit" class="btn btn-primary btn-md btn-block" value="Autenticar">
+                        </span>
+                    </div>
+                    
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
