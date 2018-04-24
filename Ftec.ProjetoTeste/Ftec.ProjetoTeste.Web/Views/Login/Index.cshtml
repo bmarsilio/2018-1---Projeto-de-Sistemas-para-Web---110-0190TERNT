@@ -1,0 +1,27 @@
+﻿@{
+    Layout = null;
+}
+
+<html>
+<head>
+    <title>Login</title>
+</head>
+
+<body>
+
+<form action="/Login/Autenticar" method="POST">
+
+    <label for="usuario">Usuário:</label>
+    <input type="text" class="form-control" name="usuario" id="usuario"/>
+    <br />
+
+    <label for="senha">Senha:</label>
+    <input type="password" class="form-control" name="senha" id="senha"/>
+    <br />
+
+    <input type="submit" class="btn btn-success" value="Autenticar"/>
+</form>
+
+</body>
+
+</html>

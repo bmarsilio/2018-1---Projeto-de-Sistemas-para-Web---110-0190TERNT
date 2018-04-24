@@ -11,7 +11,11 @@
           <e p="FuncionariosController.cs" t="Include" />
           <e p="HomeController.cs" t="Include" />
           <e p="LivrosController.cs" t="Include" />
+          <e p="LoginController.cs" t="Include" />
           <e p="ProdutoController.cs" t="Include" />
+        </e>
+        <e p="Filtro" t="Include">
+          <e p="FiltroAcesso.cs" t="Include" />
         </e>
         <e p="Ftec.ProjetoTeste.Web.csproj" t="IncludeRecursive" />
         <e p="Models" t="Include">
@@ -55,6 +59,9 @@
             <e p="Gravar.cshtml" t="Include" />
             <e p="Listar.cshtml" t="Include" />
             <e p="Procurar.cshtml" t="Include" />
+          </e>
+          <e p="Login" t="Include">
+            <e p="Index.cshtml" t="Include" />
           </e>
           <e p="Produto" t="Include">
             <e p="Altera.cshtml" t="Include" />

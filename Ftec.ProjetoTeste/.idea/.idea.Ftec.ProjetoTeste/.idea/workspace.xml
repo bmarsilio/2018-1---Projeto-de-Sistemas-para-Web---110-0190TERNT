@@ -11,51 +11,94 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/Produto/Index.cshtml">
+      <file leaf-file-name="LoginController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Controllers/LoginController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="342">
+              <caret line="19" column="64" lean-forward="false" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
               <folding>
-                <marker date="1523402277059" expanded="true" signature="0:52" ph="@..." />
-                <marker date="1523402277059" expanded="true" signature="82:885" ph="&lt;div.../&gt;" />
-                <marker date="1523402277059" expanded="true" signature="115:199" ph="&lt;a.../&gt;" />
-                <marker date="1523402277059" expanded="true" signature="209:878" ph="&lt;table.../&gt;" />
-                <marker date="1523402277059" expanded="true" signature="248:403" ph="&lt;thead.../&gt;" />
-                <marker date="1523402277059" expanded="true" signature="264:386" ph="&lt;tr.../&gt;" />
-                <marker date="1523402277059" expanded="true" signature="425:852" ph="&lt;tbody.../&gt;" />
-                <marker date="1523402277059" expanded="true" signature="458:822" ph="@..." />
-                <marker date="1523402277059" expanded="true" signature="500:822" ph="{...}" />
-                <marker date="1523402277059" expanded="true" signature="523:812" ph="&lt;tr.../&gt;" />
-                <marker date="1523402277059" expanded="true" signature="665:794" ph="&lt;td.../&gt;" />
+                <marker date="1524007580883" expanded="true" signature="6:64" ph="..." />
+                <marker date="1524007580883" expanded="true" signature="157:666" ph="{...}" />
+                <marker date="1524007580883" expanded="true" signature="215:278" ph="{...}" />
+                <marker date="1524007580883" expanded="true" signature="368:659" ph="{...}" />
+                <marker date="1524007580883" expanded="true" signature="432:614" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CategoriaController.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FiltroAcesso.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Filtro/FiltroAcesso.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+              <folding>
+                <marker date="1524007907796" expanded="true" signature="6:140" ph="..." />
+                <marker date="1524007907796" expanded="true" signature="236:702" ph="{...}" />
+                <marker date="1524007907796" expanded="true" signature="321:696" ph="{...}" />
+                <marker date="1524007907796" expanded="true" signature="440:686" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <folding>
+                <marker date="1524008387253" expanded="false" signature="6:258" ph="..." />
+                <marker date="1524008387253" expanded="true" signature="318:1566" ph="{...}" />
+                <marker date="1524008387253" expanded="true" signature="377:440" ph="{...}" />
+                <marker date="1524008387253" expanded="true" signature="663:812" ph="{...}" />
+                <marker date="1524008387253" expanded="true" signature="1000:1560" ph="{...}" />
+                <marker date="1524008387253" expanded="true" signature="1047:1124" ph="{...}" />
+                <marker date="1524008387253" expanded="true" signature="1141:1225" ph="{...}" />
+                <marker date="1524008387253" expanded="true" signature="1377:1548" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/Login/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+              <folding>
+                <marker date="1524007485240" expanded="true" signature="0:23" ph="@..." />
+                <marker date="1524007485240" expanded="true" signature="32:71" ph="&lt;head.../&gt;" />
+                <marker date="1524007485240" expanded="true" signature="73:468" ph="&lt;body.../&gt;" />
+                <marker date="1524007485240" expanded="true" signature="81:459" ph="&lt;form.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CategoriaController.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Controllers/CategoriaController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="130" column="45" lean-forward="true" selection-start-line="130" selection-start-column="45" selection-end-line="130" selection-end-column="45" />
+            <state relative-caret-position="90">
+              <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
               <folding>
-                <marker date="1522797907036" expanded="false" signature="6:171" ph="..." />
-                <marker date="1522797907036" expanded="true" signature="216:4591" ph="{...}" />
-                <marker date="1522797907036" expanded="true" signature="268:4589" ph="{...}" />
-                <marker date="1522797907036" expanded="true" signature="326:1005" ph="{...}" />
-                <marker date="1522797907036" expanded="true" signature="513:686" ph="{...}" />
-                <marker date="1522797907036" expanded="true" signature="703:955" ph="{...}" />
-                <marker date="1522797907036" expanded="true" signature="1056:1115" ph="{...}" />
-                <marker date="1522797907036" expanded="true" signature="1223:2406" ph="{...}" />
-                <marker date="1522797907036" expanded="true" signature="1410:1814" ph="{...}" />
-                <marker date="1522797907036" expanded="true" signature="1831:2349" ph="{...}" />
-                <marker date="1522797907036" expanded="true" signature="2463:2582" ph="{...}" />
-                <marker date="1522797907036" expanded="true" signature="2689:3578" ph="{...}" />
-                <marker date="1522797907036" expanded="true" signature="3085:3337" ph="{...}" />
-                <marker date="1522797907036" expanded="true" signature="3161:3323" ph="{...}" />
-                <marker date="1522797907036" expanded="true" signature="3643:4583" ph="{...}" />
-                <marker date="1522797907036" expanded="true" signature="4074:4275" ph="{...}" />
-                <marker date="1522797907036" expanded="true" signature="4153:4261" ph="{...}" />
+                <marker date="1524008390149" expanded="false" signature="6:207" ph="..." />
+                <marker date="1524008390149" expanded="true" signature="252:4646" ph="{...}" />
+                <marker date="1524008390149" expanded="true" signature="323:4644" ph="{...}" />
+                <marker date="1524008390149" expanded="true" signature="381:1060" ph="{...}" />
+                <marker date="1524008390149" expanded="true" signature="568:741" ph="{...}" />
+                <marker date="1524008390149" expanded="true" signature="758:1010" ph="{...}" />
+                <marker date="1524008390149" expanded="true" signature="1111:1170" ph="{...}" />
+                <marker date="1524008390149" expanded="true" signature="1278:2461" ph="{...}" />
+                <marker date="1524008390149" expanded="true" signature="1465:1869" ph="{...}" />
+                <marker date="1524008390149" expanded="true" signature="1886:2404" ph="{...}" />
+                <marker date="1524008390149" expanded="true" signature="2518:2637" ph="{...}" />
+                <marker date="1524008390149" expanded="true" signature="2744:3633" ph="{...}" />
+                <marker date="1524008390149" expanded="true" signature="3140:3392" ph="{...}" />
+                <marker date="1524008390149" expanded="true" signature="3216:3378" ph="{...}" />
+                <marker date="1524008390149" expanded="true" signature="3698:4638" ph="{...}" />
+                <marker date="1524008390149" expanded="true" signature="4129:4330" ph="{...}" />
+                <marker date="1524008390149" expanded="true" signature="4208:4316" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -66,6 +109,9 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>appSe</find>
+      <find>start</find>
+      <find>GlobalFil</find>
+      <find>services</find>
     </findStrings>
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -78,6 +124,7 @@
     <setting file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/Livros/Procurar.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/Home/About.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Controllers/AlunosController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/Shared/_ValidationScriptsPartial.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Controllers/FuncionariosController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -92,8 +139,11 @@
     <setting file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Models/Produto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Controllers/DefaultController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Controllers/ProdutoController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Filtro/FiltroAcesso.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/Default/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/Login/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/680D0602-C9E2-44FF-A79D-2642AAF77E76/fc/42068e1c/HtmlHelperLinkExtensions.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Controllers/LoginController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Controllers/CategoriaController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -124,14 +174,17 @@
         <option value="$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Models/CategoriaProduto.cs" />
         <option value="$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/Produto/Altera.cshtml" />
         <option value="$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Controllers/ProdutoController.cs" />
-        <option value="$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Startup.cs" />
         <option value="$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/Categoria/Altera.cshtml" />
-        <option value="$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Controllers/CategoriaController.cs" />
         <option value="$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/Categoria/Formulario.cshtml" />
         <option value="$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/Shared/_Layout.cshtml" />
         <option value="$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/Categoria/Index.cshtml" />
         <option value="$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/Produto/Formulario.cshtml" />
         <option value="$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/Produto/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/Login/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Controllers/LoginController.cs" />
+        <option value="$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Filtro/FiltroAcesso.cs" />
+        <option value="$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Controllers/CategoriaController.cs" />
+        <option value="$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Startup.cs" />
       </list>
     </option>
   </component>
@@ -161,7 +214,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -175,13 +227,14 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="SearchEverywhereHistoryKey" value="categoriac&#9;FILE&#9;file:///home/brunomarsilio/RiderProjects/Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/Controllers/CategoriaController.cs&#10;formu&#9;FILE&#9;file:///home/brunomarsilio/RiderProjects/Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/Views/Produto/Formulario.cshtml&#10;produto&#9;FILE&#9;file:///home/brunomarsilio/RiderProjects/Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/Controllers/ProdutoController.cs&#10;formula&#9;FILE&#9;file:///home/brunomarsilio/RiderProjects/Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/Views/Categoria/Formulario.cshtml&#10;categoria&#9;FILE&#9;file:///home/brunomarsilio/RiderProjects/Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/Controllers/CategoriaController.cs&#10;configureser&#9;null&#9;null&#10;Route&#9;null&#9;null&#10;homecon&#9;FILE&#9;file:///home/brunomarsilio/RiderProjects/Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/Controllers/HomeController.cs" />
-    <property name="last_opened_file_path" value="$USER_HOME$/www/bruno/mvc/mvc.sln" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blogNetCore/blogNetCore.sln" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -237,11 +290,14 @@
       <workItem from="1522789579414" duration="2522000" />
       <workItem from="1522797838514" duration="3655000" />
       <workItem from="1523400753452" duration="2299000" />
+      <workItem from="1523407824850" duration="19000" />
+      <workItem from="1524006359686" duration="2685000" />
+      <workItem from="1524009434944" duration="23000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25745000" />
+    <option name="totallyTimeSpent" value="28472000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -260,22 +316,22 @@
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.58709675" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27954546" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2931818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -315,48 +371,11 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="21" />
+      <option name="time" value="24" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/Categoria/Altera.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/Categoria/Formulario.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/Categoria/Index.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-          <folding>
-            <marker date="1522801651953" expanded="true" signature="38:92" ph="@..." />
-            <marker date="1522801651953" expanded="true" signature="122:985" ph="&lt;div.../&gt;" />
-            <marker date="1522801651953" expanded="true" signature="155:243" ph="&lt;a.../&gt;" />
-            <marker date="1522801651953" expanded="true" signature="253:978" ph="&lt;table.../&gt;" />
-            <marker date="1522801651953" expanded="true" signature="292:420" ph="&lt;thead.../&gt;" />
-            <marker date="1522801651953" expanded="true" signature="308:403" ph="&lt;tr.../&gt;" />
-            <marker date="1522801651953" expanded="true" signature="442:952" ph="&lt;tbody.../&gt;" />
-            <marker date="1522801651953" expanded="true" signature="475:922" ph="@..." />
-            <marker date="1522801651953" expanded="true" signature="521:922" ph="{...}" />
-            <marker date="1522801651953" expanded="true" signature="544:912" ph="&lt;tr.../&gt;" />
-            <marker date="1522801651953" expanded="true" signature="650:894" ph="&lt;td.../&gt;" />
-            <marker date="1522801651953" expanded="true" signature="987:1121" ph="@{...}" />
-            <marker date="1522801651953" expanded="true" signature="1010:1119" ph="&lt;script.../&gt;" />
-            <marker date="1522801651953" expanded="true" signature="1057:1102" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Models/Produto.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -449,24 +468,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/bundleconfig.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/appsettings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -489,13 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/Default/Index.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -590,13 +588,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="44" column="29" lean-forward="false" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/MoqFactory/MoqFactory.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -625,13 +616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/Categoria/Formulario.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/_ViewStart.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -643,25 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1224">
           <caret line="68" column="27" lean-forward="false" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="27" />
-          <folding>
-            <marker date="1522800741303" expanded="true" signature="16:3361" ph="&lt;html.../&gt;" />
-            <marker date="1522800741303" expanded="true" signature="23:855" ph="&lt;head.../&gt;" />
-            <marker date="1522800741303" expanded="true" signature="203:393" ph="&lt;environment.../&gt;" />
-            <marker date="1522800741303" expanded="true" signature="398:847" ph="&lt;environment.../&gt;" />
-            <marker date="1522800741303" expanded="true" signature="856:3353" ph="&lt;body.../&gt;" />
-            <marker date="1522800741303" expanded="true" signature="867:1940" ph="&lt;nav.../&gt;" />
-            <marker date="1522800741303" expanded="true" signature="928:1929" ph="&lt;div.../&gt;" />
-            <marker date="1522800741303" expanded="true" signature="964:1490" ph="&lt;div.../&gt;" />
-            <marker date="1522800741303" expanded="true" signature="1008:1352" ph="&lt;button.../&gt;" />
-            <marker date="1522800741303" expanded="true" signature="1503:1914" ph="&lt;div.../&gt;" />
-            <marker date="1522800741303" expanded="true" signature="1558:1895" ph="&lt;ul.../&gt;" />
-            <marker date="1522800741303" expanded="true" signature="1945:2119" ph="&lt;div.../&gt;" />
-            <marker date="1522800741303" expanded="true" signature="2027:2108" ph="&lt;footer.../&gt;" />
-            <marker date="1522800741303" expanded="true" signature="2125:2379" ph="&lt;environment.../&gt;" />
-            <marker date="1522800741303" expanded="true" signature="2384:3297" ph="&lt;environment.../&gt;" />
-            <marker date="1522800741303" expanded="true" signature="2428:2785" ph="&lt;script.../&gt;" />
-            <marker date="1522800741303" expanded="true" signature="2794:3203" ph="&lt;script.../&gt;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -669,16 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="449">
           <caret line="56" column="9" lean-forward="false" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
-          <folding>
-            <marker date="1521592650665" expanded="false" signature="6:115" ph="..." />
-            <marker date="1521592650665" expanded="true" signature="160:1409" ph="{...}" />
-            <marker date="1521592650665" expanded="true" signature="210:1407" ph="{...}" />
-            <marker date="1521592650665" expanded="true" signature="268:475" ph="{...}" />
-            <marker date="1521592650665" expanded="true" signature="526:697" ph="{...}" />
-            <marker date="1521592650665" expanded="true" signature="787:895" ph="{...}" />
-            <marker date="1521592650665" expanded="true" signature="950:1159" ph="{...}" />
-            <marker date="1521592650665" expanded="true" signature="1222:1401" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -686,22 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="41" column="16" lean-forward="false" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="16" />
-          <folding>
-            <marker date="1522801651953" expanded="true" signature="38:92" ph="@..." />
-            <marker date="1522801651953" expanded="true" signature="122:985" ph="&lt;div.../&gt;" />
-            <marker date="1522801651953" expanded="true" signature="155:243" ph="&lt;a.../&gt;" />
-            <marker date="1522801651953" expanded="true" signature="253:978" ph="&lt;table.../&gt;" />
-            <marker date="1522801651953" expanded="true" signature="292:420" ph="&lt;thead.../&gt;" />
-            <marker date="1522801651953" expanded="true" signature="308:403" ph="&lt;tr.../&gt;" />
-            <marker date="1522801651953" expanded="true" signature="442:952" ph="&lt;tbody.../&gt;" />
-            <marker date="1522801651953" expanded="true" signature="475:922" ph="@..." />
-            <marker date="1522801651953" expanded="true" signature="521:922" ph="{...}" />
-            <marker date="1522801651953" expanded="true" signature="544:912" ph="&lt;tr.../&gt;" />
-            <marker date="1522801651953" expanded="true" signature="650:894" ph="&lt;td.../&gt;" />
-            <marker date="1522801651953" expanded="true" signature="987:1121" ph="@{...}" />
-            <marker date="1522801651953" expanded="true" signature="1010:1119" ph="&lt;script.../&gt;" />
-            <marker date="1522801651953" expanded="true" signature="1057:1102" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -709,65 +648,123 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="281">
           <caret line="46" column="6" lean-forward="false" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/Produto/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/Default/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/Categoria/Formulario.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15" column="74" lean-forward="false" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/Login/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
           <folding>
-            <marker date="1523402083081" expanded="true" signature="0:42" ph="@..." />
-            <marker date="1523402083081" expanded="true" signature="72:1368" ph="&lt;div.../&gt;" />
-            <marker date="1523402083081" expanded="true" signature="105:172" ph="&lt;a.../&gt;" />
-            <marker date="1523402083081" expanded="true" signature="182:1356" ph="&lt;form.../&gt;" />
-            <marker date="1523402083081" expanded="true" signature="247:618" ph="&lt;div.../&gt;" />
-            <marker date="1523402083081" expanded="true" signature="339:603" ph="&lt;select.../&gt;" />
-            <marker date="1523402083081" expanded="true" signature="418:580" ph="@..." />
-            <marker date="1523402083081" expanded="true" signature="464:580" ph="{...}" />
-            <marker date="1523402083081" expanded="true" signature="636:804" ph="&lt;div.../&gt;" />
-            <marker date="1523402083081" expanded="true" signature="822:1014" ph="&lt;div.../&gt;" />
-            <marker date="1523402083081" expanded="true" signature="1032:1204" ph="&lt;div.../&gt;" />
-            <marker date="1523402083081" expanded="true" signature="1222:1335" ph="&lt;div.../&gt;" />
+            <marker date="1524007485240" expanded="true" signature="0:23" ph="@..." />
+            <marker date="1524007485240" expanded="true" signature="32:71" ph="&lt;head.../&gt;" />
+            <marker date="1524007485240" expanded="true" signature="73:468" ph="&lt;body.../&gt;" />
+            <marker date="1524007485240" expanded="true" signature="81:459" ph="&lt;form.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Controllers/LoginController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="64" lean-forward="false" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
+          <folding>
+            <marker date="1524007580883" expanded="true" signature="6:64" ph="..." />
+            <marker date="1524007580883" expanded="true" signature="157:666" ph="{...}" />
+            <marker date="1524007580883" expanded="true" signature="215:278" ph="{...}" />
+            <marker date="1524007580883" expanded="true" signature="368:659" ph="{...}" />
+            <marker date="1524007580883" expanded="true" signature="432:614" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Filtro/FiltroAcesso.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding>
+            <marker date="1524007907796" expanded="true" signature="6:140" ph="..." />
+            <marker date="1524007907796" expanded="true" signature="236:702" ph="{...}" />
+            <marker date="1524007907796" expanded="true" signature="321:696" ph="{...}" />
+            <marker date="1524007907796" expanded="true" signature="440:686" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <marker date="1524008387253" expanded="false" signature="6:258" ph="..." />
+            <marker date="1524008387253" expanded="true" signature="318:1566" ph="{...}" />
+            <marker date="1524008387253" expanded="true" signature="377:440" ph="{...}" />
+            <marker date="1524008387253" expanded="true" signature="663:812" ph="{...}" />
+            <marker date="1524008387253" expanded="true" signature="1000:1560" ph="{...}" />
+            <marker date="1524008387253" expanded="true" signature="1047:1124" ph="{...}" />
+            <marker date="1524008387253" expanded="true" signature="1141:1225" ph="{...}" />
+            <marker date="1524008387253" expanded="true" signature="1377:1548" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Controllers/CategoriaController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="130" column="45" lean-forward="true" selection-start-line="130" selection-start-column="45" selection-end-line="130" selection-end-column="45" />
+        <state relative-caret-position="90">
+          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
           <folding>
-            <marker date="1522797907036" expanded="false" signature="6:171" ph="..." />
-            <marker date="1522797907036" expanded="true" signature="216:4591" ph="{...}" />
-            <marker date="1522797907036" expanded="true" signature="268:4589" ph="{...}" />
-            <marker date="1522797907036" expanded="true" signature="326:1005" ph="{...}" />
-            <marker date="1522797907036" expanded="true" signature="513:686" ph="{...}" />
-            <marker date="1522797907036" expanded="true" signature="703:955" ph="{...}" />
-            <marker date="1522797907036" expanded="true" signature="1056:1115" ph="{...}" />
-            <marker date="1522797907036" expanded="true" signature="1223:2406" ph="{...}" />
-            <marker date="1522797907036" expanded="true" signature="1410:1814" ph="{...}" />
-            <marker date="1522797907036" expanded="true" signature="1831:2349" ph="{...}" />
-            <marker date="1522797907036" expanded="true" signature="2463:2582" ph="{...}" />
-            <marker date="1522797907036" expanded="true" signature="2689:3578" ph="{...}" />
-            <marker date="1522797907036" expanded="true" signature="3085:3337" ph="{...}" />
-            <marker date="1522797907036" expanded="true" signature="3161:3323" ph="{...}" />
-            <marker date="1522797907036" expanded="true" signature="3643:4583" ph="{...}" />
-            <marker date="1522797907036" expanded="true" signature="4074:4275" ph="{...}" />
-            <marker date="1522797907036" expanded="true" signature="4153:4261" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ftec.ProjetoTeste.Web/Views/Produto/Index.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-          <folding>
-            <marker date="1523402277059" expanded="true" signature="0:52" ph="@..." />
-            <marker date="1523402277059" expanded="true" signature="82:885" ph="&lt;div.../&gt;" />
-            <marker date="1523402277059" expanded="true" signature="115:199" ph="&lt;a.../&gt;" />
-            <marker date="1523402277059" expanded="true" signature="209:878" ph="&lt;table.../&gt;" />
-            <marker date="1523402277059" expanded="true" signature="248:403" ph="&lt;thead.../&gt;" />
-            <marker date="1523402277059" expanded="true" signature="264:386" ph="&lt;tr.../&gt;" />
-            <marker date="1523402277059" expanded="true" signature="425:852" ph="&lt;tbody.../&gt;" />
-            <marker date="1523402277059" expanded="true" signature="458:822" ph="@..." />
-            <marker date="1523402277059" expanded="true" signature="500:822" ph="{...}" />
-            <marker date="1523402277059" expanded="true" signature="523:812" ph="&lt;tr.../&gt;" />
-            <marker date="1523402277059" expanded="true" signature="665:794" ph="&lt;td.../&gt;" />
+            <marker date="1524008390149" expanded="false" signature="6:207" ph="..." />
+            <marker date="1524008390149" expanded="true" signature="252:4646" ph="{...}" />
+            <marker date="1524008390149" expanded="true" signature="323:4644" ph="{...}" />
+            <marker date="1524008390149" expanded="true" signature="381:1060" ph="{...}" />
+            <marker date="1524008390149" expanded="true" signature="568:741" ph="{...}" />
+            <marker date="1524008390149" expanded="true" signature="758:1010" ph="{...}" />
+            <marker date="1524008390149" expanded="true" signature="1111:1170" ph="{...}" />
+            <marker date="1524008390149" expanded="true" signature="1278:2461" ph="{...}" />
+            <marker date="1524008390149" expanded="true" signature="1465:1869" ph="{...}" />
+            <marker date="1524008390149" expanded="true" signature="1886:2404" ph="{...}" />
+            <marker date="1524008390149" expanded="true" signature="2518:2637" ph="{...}" />
+            <marker date="1524008390149" expanded="true" signature="2744:3633" ph="{...}" />
+            <marker date="1524008390149" expanded="true" signature="3140:3392" ph="{...}" />
+            <marker date="1524008390149" expanded="true" signature="3216:3378" ph="{...}" />
+            <marker date="1524008390149" expanded="true" signature="3698:4638" ph="{...}" />
+            <marker date="1524008390149" expanded="true" signature="4129:4330" ph="{...}" />
+            <marker date="1524008390149" expanded="true" signature="4208:4316" ph="{...}" />
           </folding>
         </state>
       </provider>

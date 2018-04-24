@@ -4,9 +4,11 @@ using Ftec.ProjetoTeste.Web.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
+using Ftec.ProjetoTeste.Web.Filtro;
 
 namespace Ftec.ProjetoTeste.Web.Controllers
 {
+    [FiltroAcesso]
     public class CategoriaController : Controller
     {
         // GET
