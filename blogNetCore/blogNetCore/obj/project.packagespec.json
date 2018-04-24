@@ -30,6 +30,10 @@
           "target": "Package",
           "version": "[2.0.5, )"
         },
+        "Microsoft.AspNetCore.Session": {
+          "target": "Package",
+          "version": "[2.1.0-preview2-final, )"
+        },
         "Microsoft.NETCore.App": {
           "suppressParent": "All",
           "target": "Package",

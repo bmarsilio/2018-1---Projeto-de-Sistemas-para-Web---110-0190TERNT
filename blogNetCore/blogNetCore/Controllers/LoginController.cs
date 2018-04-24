@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using blogNetCore.Models;
+using Microsoft.AspNetCore.Http;
 
 namespace blogNetCore.Controllers
 {
@@ -19,12 +20,23 @@ namespace blogNetCore.Controllers
 
         [HttpPost]
         public IActionResult Autenticar(string usuario, string senha)
-        {
-            return RedirectToAction("Index", "Post");
+        {            
+            if (usuario == "admin" && senha == "admin")
+            {
+                HttpContext.Session.SetString("usuario", usuario);
+                
+                return RedirectToAction("Index", "Post");     
+            }
+         
+            ViewData["error"] = "Usuário ou senha incorretos";
+            
+            return View("Index");
         }
         
         public IActionResult Logout()
         {
+            HttpContext.Session.Clear();
+            
             return RedirectToAction("Index", "Home");
         }
     }

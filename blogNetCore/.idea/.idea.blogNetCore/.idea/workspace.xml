@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27c3c2fe-3be7-4261-9ae7-1469b368cfca" name="Default" comment="" />
+    <list default="true" id="27c3c2fe-3be7-4261-9ae7-1469b368cfca" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../Ftec.ProjetoTeste/.idea/.idea.Ftec.ProjetoTeste/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ftec.ProjetoTeste/.idea/.idea.Ftec.ProjetoTeste/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ftec.ProjetoTeste/.idea/.idea.Ftec.ProjetoTeste/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ftec.ProjetoTeste/.idea/.idea.Ftec.ProjetoTeste/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.blogNetCore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.blogNetCore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore/Controllers/CategoriaController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/Controllers/CategoriaController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore/Controllers/ContatoController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/Controllers/ContatoController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore/Controllers/LoginController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/Controllers/LoginController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore/Controllers/PostController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/Controllers/PostController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore/Views/Login/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/Views/Login/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore/bin/Debug/netcoreapp2.0/blogNetCore.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/bin/Debug/netcoreapp2.0/blogNetCore.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore/bin/Debug/netcoreapp2.0/blogNetCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/bin/Debug/netcoreapp2.0/blogNetCore.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore/bin/Debug/netcoreapp2.0/blogNetCore.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/bin/Debug/netcoreapp2.0/blogNetCore.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore/blogNetCore.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/blogNetCore.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore/obj/blogNetCore.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/obj/blogNetCore.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,120 +35,117 @@
       <file leaf-file-name="PostController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/PostController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="32" column="5" lean-forward="false" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="72">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
               <folding>
-                <marker date="1524011335332" expanded="false" signature="6:180" ph="..." />
-                <marker date="1524011335332" expanded="true" signature="215:718" ph="{...}" />
-                <marker date="1524011335332" expanded="true" signature="262:716" ph="{...}" />
-                <marker date="1524011335332" expanded="true" signature="305:406" ph="{...}" />
-                <marker date="1524011335332" expanded="true" signature="453:558" ph="{...}" />
-                <marker date="1524011335332" expanded="true" signature="603:710" ph="{...}" />
+                <marker date="1524607984984" expanded="false" signature="6:206" ph="..." />
+                <marker date="1524607984984" expanded="true" signature="307:761" ph="{...}" />
+                <marker date="1524607984984" expanded="true" signature="350:451" ph="{...}" />
+                <marker date="1524607984984" expanded="true" signature="498:603" ph="{...}" />
+                <marker date="1524607984984" expanded="true" signature="648:755" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Post/Index.cshtml">
+      <file leaf-file-name="FiltroAcesso.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogNetCore/Filtro/FiltroAcesso.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="92" />
+            <state relative-caret-position="126">
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
               <folding>
-                <marker date="1524012658895" expanded="true" signature="0:33" ph="@..." />
-                <marker date="1524012658895" expanded="true" signature="35:737" ph="&lt;div.../&gt;" />
-                <marker date="1524012658895" expanded="true" signature="154:725" ph="&lt;table.../&gt;" />
-                <marker date="1524012658895" expanded="true" signature="193:348" ph="&lt;thead.../&gt;" />
-                <marker date="1524012658895" expanded="true" signature="209:331" ph="&lt;tr.../&gt;" />
-                <marker date="1524012658895" expanded="true" signature="366:703" ph="&lt;tbody.../&gt;" />
-                <marker date="1524012658895" expanded="true" signature="382:686" ph="&lt;tr.../&gt;" />
-                <marker date="1524012658895" expanded="true" signature="485:672" ph="&lt;td.../&gt;" />
-                <marker date="1524012658895" expanded="true" signature="739:1481" ph="&lt;script.../&gt;" />
-                <marker date="1524012658895" expanded="true" signature="781:1470" ph="{...}" />
-                <marker date="1524012658895" expanded="true" signature="797:1129" ph="{...}" />
-                <marker date="1524012658895" expanded="true" signature="1148:1461" ph="{...}" />
-                <marker date="1524012658895" expanded="true" signature="1167:1380" ph="{...}" />
-                <marker date="1524012658895" expanded="true" signature="1399:1449" ph="{...}" />
+                <marker date="1524608863198" expanded="false" signature="6:140" ph="..." />
+                <marker date="1524608863198" expanded="true" signature="170:694" ph="{...}" />
+                <marker date="1524608863198" expanded="true" signature="226:692" ph="{...}" />
+                <marker date="1524608863198" expanded="true" signature="311:686" ph="{...}" />
+                <marker date="1524608863198" expanded="true" signature="430:676" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogNetCore/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-9">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+              <folding>
+                <marker date="1524608929269" expanded="false" signature="6:258" ph="..." />
+                <marker date="1524608929269" expanded="true" signature="281:1505" ph="{...}" />
+                <marker date="1524608929269" expanded="true" signature="308:1503" ph="{...}" />
+                <marker date="1524608929269" expanded="true" signature="367:430" ph="{...}" />
+                <marker date="1524608929269" expanded="true" signature="653:789" ph="{...}" />
+                <marker date="1524608929269" expanded="true" signature="977:1497" ph="{...}" />
+                <marker date="1524608929269" expanded="true" signature="1024:1101" ph="{...}" />
+                <marker date="1524608929269" expanded="true" signature="1118:1202" ph="{...}" />
+                <marker date="1524608929269" expanded="true" signature="1314:1485" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/LoginController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="30" column="27" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="27" />
+              <folding>
+                <marker date="1524609206465" expanded="false" signature="6:213" ph="..." />
+                <marker date="1524609206465" expanded="true" signature="248:1096" ph="{...}" />
+                <marker date="1524609206465" expanded="true" signature="296:1094" ph="{...}" />
+                <marker date="1524609206465" expanded="true" signature="339:440" ph="{...}" />
+                <marker date="1524609206465" expanded="true" signature="530:913" ph="{...}" />
+                <marker date="1524609206465" expanded="true" signature="608:783" ph="{...}" />
+                <marker date="1524609206465" expanded="true" signature="960:1088" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Categoria/Index.cshtml">
+        <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Login/Index.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+            <state relative-caret-position="198">
+              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
               <folding>
-                <marker date="1524012705147" expanded="true" signature="0:33" ph="@..." />
-                <marker date="1524012705147" expanded="true" signature="35:694" ph="&lt;div.../&gt;" />
-                <marker date="1524012705147" expanded="true" signature="164:682" ph="&lt;table.../&gt;" />
-                <marker date="1524012705147" expanded="true" signature="203:330" ph="&lt;thead.../&gt;" />
-                <marker date="1524012705147" expanded="true" signature="219:313" ph="&lt;tr.../&gt;" />
-                <marker date="1524012705147" expanded="true" signature="348:660" ph="&lt;tbody.../&gt;" />
-                <marker date="1524012705147" expanded="true" signature="364:643" ph="&lt;tr.../&gt;" />
-                <marker date="1524012705147" expanded="true" signature="437:629" ph="&lt;td.../&gt;" />
-                <marker date="1524012705147" expanded="true" signature="696:1438" ph="&lt;script.../&gt;" />
-                <marker date="1524012705147" expanded="true" signature="738:1427" ph="{...}" />
-                <marker date="1524012705147" expanded="true" signature="754:1086" ph="{...}" />
-                <marker date="1524012705147" expanded="true" signature="1105:1418" ph="{...}" />
-                <marker date="1524012705147" expanded="true" signature="1124:1337" ph="{...}" />
-                <marker date="1524012705147" expanded="true" signature="1356:1406" ph="{...}" />
+                <marker date="1524609284230" expanded="true" signature="0:33" ph="@..." />
+                <marker date="1524609284230" expanded="true" signature="35:1100" ph="&lt;div.../&gt;" />
+                <marker date="1524609284230" expanded="true" signature="63:1093" ph="&lt;div.../&gt;" />
+                <marker date="1524609284230" expanded="true" signature="89:1082" ph="&lt;div.../&gt;" />
+                <marker date="1524609284230" expanded="true" signature="140:1067" ph="&lt;div.../&gt;" />
+                <marker date="1524609284230" expanded="true" signature="310:1048" ph="&lt;form.../&gt;" />
+                <marker date="1524609284230" expanded="true" signature="759:1003" ph="&lt;div.../&gt;" />
+                <marker date="1524609284230" expanded="true" signature="805:976" ph="&lt;span.../&gt;" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Create.cshtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Post/Create.cshtml">
+      <file leaf-file-name="CategoriaController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/CategoriaController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="6" />
+            <state relative-caret-position="72">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
               <folding>
-                <marker date="1524011580403" expanded="true" signature="0:33" ph="@..." />
-                <marker date="1524011580403" expanded="true" signature="144:1418" ph="&lt;form.../&gt;" />
-                <marker date="1524011580403" expanded="true" signature="193:505" ph="&lt;div.../&gt;" />
-                <marker date="1524011580403" expanded="true" signature="299:477" ph="&lt;select.../&gt;" />
-                <marker date="1524011580403" expanded="true" signature="523:700" ph="&lt;div.../&gt;" />
-                <marker date="1524011580403" expanded="true" signature="718:902" ph="&lt;div.../&gt;" />
-                <marker date="1524011580403" expanded="true" signature="920:1076" ph="&lt;div.../&gt;" />
-                <marker date="1524011580403" expanded="true" signature="1094:1242" ph="&lt;div.../&gt;" />
-                <marker date="1524011580403" expanded="true" signature="1284:1397" ph="&lt;div.../&gt;" />
+                <marker date="1524607984964" expanded="false" signature="6:206" ph="..." />
+                <marker date="1524607984964" expanded="true" signature="312:781" ph="{...}" />
+                <marker date="1524607984964" expanded="true" signature="355:461" ph="{...}" />
+                <marker date="1524607984964" expanded="true" signature="508:618" ph="{...}" />
+                <marker date="1524607984964" expanded="true" signature="663:775" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Edit.cshtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Post/Edit.cshtml">
+      <file leaf-file-name="ContatoController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/ContatoController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            <state relative-caret-position="72">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
               <folding>
-                <marker date="1524011616131" expanded="true" signature="0:33" ph="@..." />
-                <marker date="1524011616131" expanded="true" signature="35:1475" ph="&lt;div.../&gt;" />
-                <marker date="1524011616131" expanded="true" signature="144:1463" ph="&lt;form.../&gt;" />
-                <marker date="1524011616131" expanded="true" signature="193:505" ph="&lt;div.../&gt;" />
-                <marker date="1524011616131" expanded="true" signature="299:477" ph="&lt;select.../&gt;" />
-                <marker date="1524011616131" expanded="true" signature="523:715" ph="&lt;div.../&gt;" />
-                <marker date="1524011616131" expanded="true" signature="733:927" ph="&lt;div.../&gt;" />
-                <marker date="1524011616131" expanded="true" signature="945:1109" ph="&lt;div.../&gt;" />
-                <marker date="1524011616131" expanded="true" signature="1127:1287" ph="&lt;div.../&gt;" />
-                <marker date="1524011616131" expanded="true" signature="1329:1442" ph="&lt;div.../&gt;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_LayoutAdmin.cshtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_LayoutAdmin.cshtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="51" column="52" lean-forward="false" selection-start-line="51" selection-start-column="52" selection-end-line="51" selection-end-column="52" />
-              <folding>
-                <marker date="1524012587491" expanded="true" signature="16:1810" ph="&lt;html.../&gt;" />
-                <marker date="1524012587491" expanded="true" signature="34:1384" ph="&lt;head.../&gt;" />
-                <marker date="1524012587491" expanded="true" signature="1386:1801" ph="&lt;body.../&gt;" />
+                <marker date="1524607984944" expanded="false" signature="6:206" ph="..." />
+                <marker date="1524607984944" expanded="true" signature="310:463" ph="{...}" />
+                <marker date="1524607984944" expanded="true" signature="353:457" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -147,31 +165,38 @@
       <find>fontawe</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Post/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Controllers/PostController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Post/Create.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Post.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Post/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Categoria/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Categoria/Create.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Categoria/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Controllers/CategoriaController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_LayoutLogin.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Login/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Controllers/LoginController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Contato/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Contato.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Post.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Sobre.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Post/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Post/Create.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Post/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Login/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_Navbar.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Controllers/ContatoController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_NavbarAdmin.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_LayoutAdmin.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_LayoutLogin.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_NavbarAdmin.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Contato/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Categoria/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Categoria/Create.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Categoria/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Controllers/ContatoController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Controllers/LoginController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Controllers/PostController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Controllers/CategoriaController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Filtro/FiltroAcesso.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/Controllers/CategoriaController.cs" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -184,22 +209,24 @@
         <option value="$PROJECT_DIR$/blogNetCore/Controllers/HomeController.cs" />
         <option value="$PROJECT_DIR$/blogNetCore/Views/Home/Post.cshtml" />
         <option value="$PROJECT_DIR$/blogNetCore/Views/Home/Index.cshtml" />
-        <option value="$PROJECT_DIR$/blogNetCore/Controllers/ContatoController.cs" />
         <option value="$PROJECT_DIR$/blogNetCore/Views/Shared/_LayoutLogin.cshtml" />
         <option value="$PROJECT_DIR$/blogNetCore/wwwroot/css/login.css" />
-        <option value="$PROJECT_DIR$/blogNetCore/Controllers/LoginController.cs" />
         <option value="$PROJECT_DIR$/blogNetCore/Views/Contato/Index.cshtml" />
-        <option value="$PROJECT_DIR$/blogNetCore/Views/Login/Index.cshtml" />
         <option value="$PROJECT_DIR$/blogNetCore/Views/Shared/_NavbarAdmin.cshtml" />
         <option value="$PROJECT_DIR$/blogNetCore/Views/Categoria/Create.cshtml" />
         <option value="$PROJECT_DIR$/blogNetCore/Views/Categoria/Edit.cshtml" />
-        <option value="$PROJECT_DIR$/blogNetCore/Controllers/CategoriaController.cs" />
-        <option value="$PROJECT_DIR$/blogNetCore/Controllers/PostController.cs" />
         <option value="$PROJECT_DIR$/blogNetCore/Views/Post/Create.cshtml" />
         <option value="$PROJECT_DIR$/blogNetCore/Views/Post/Edit.cshtml" />
         <option value="$PROJECT_DIR$/blogNetCore/Views/Shared/_LayoutAdmin.cshtml" />
         <option value="$PROJECT_DIR$/blogNetCore/Views/Post/Index.cshtml" />
         <option value="$PROJECT_DIR$/blogNetCore/Views/Categoria/Index.cshtml" />
+        <option value="$PROJECT_DIR$/blogNetCore/Controllers/CategoriaController.cs" />
+        <option value="$PROJECT_DIR$/blogNetCore/Controllers/ContatoController.cs" />
+        <option value="$PROJECT_DIR$/blogNetCore/Controllers/PostController.cs" />
+        <option value="$PROJECT_DIR$/blogNetCore/Filtro/FiltroAcesso.cs" />
+        <option value="$PROJECT_DIR$/blogNetCore/Startup.cs" />
+        <option value="$PROJECT_DIR$/blogNetCore/Controllers/LoginController.cs" />
+        <option value="$PROJECT_DIR$/blogNetCore/Views/Login/Index.cshtml" />
       </list>
     </option>
   </component>
@@ -216,19 +243,10 @@
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -245,67 +263,14 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="blogNetCore (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="blogNetCore" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="blogNetCore (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="blogNetCore" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="lib" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="blogNetCore (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="blogNetCore" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="lib" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="bootstrap" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="blogNetCore (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="blogNetCore" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="lib" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="jquery" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="blogNetCore (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="blogNetCore" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="lib" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="sweet-alert" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="blogNetCore (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="blogNetCore" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="lib" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="sweet-alert" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="dist" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="blogNetCore (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="blogNetCore" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="lib" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="sweet-alert" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="dist" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="css" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="blogNetCore (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="blogNetCore" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="lib" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="sweet-alert" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="dist" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="js" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Login" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -313,13 +278,12 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="homecon&#9;FILE&#9;file:///home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/Controllers/HomeController.cs&#10;post&#9;FILE&#9;file:///home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/Controllers/PostController.cs&#10;navbar&#9;FILE&#9;file:///home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/Views/Shared/_NavbarAdmin.cshtml&#10;contato/index&#9;FILE&#9;file:///home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/Views/Contato/Index.cshtml" />
+    <property name="SearchEverywhereHistoryKey" value="login&#9;FILE&#9;file:///home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/Views/Login&#10;logincon&#9;FILE&#9;file:///home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/Controllers/LoginController.cs&#10;homecon&#9;FILE&#9;file:///home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/Controllers/HomeController.cs&#10;post&#9;FILE&#9;file:///home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/Controllers/PostController.cs&#10;navbar&#9;FILE&#9;file:///home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/Views/Shared/_NavbarAdmin.cshtml&#10;contato/index&#9;FILE&#9;file:///home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/Views/Contato/Index.cshtml" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ftec.ProjetoTeste/Ftec.ProjetoTeste.sln" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -375,11 +339,16 @@
       <workItem from="1524009228331" duration="205000" />
       <workItem from="1524009458629" duration="2505000" />
       <workItem from="1524011994091" duration="822000" />
+      <workItem from="1524607553857" duration="527000" />
+      <workItem from="1524608113469" duration="134000" />
+      <workItem from="1524608514014" duration="178000" />
+      <workItem from="1524608707758" duration="68000" />
+      <workItem from="1524608793959" duration="492000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6707000" />
+    <option name="totallyTimeSpent" value="8106000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -392,53 +361,206 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="764" width="1366" height="772" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4887097" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27954546" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32903227" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="REST Client" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32792208" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.48863637" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.45954692" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.30227274" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32903227" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/PostController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="28" column="40" lean-forward="false" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+        <state relative-caret-position="72">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
           <folding>
-            <marker date="1524011335332" expanded="false" signature="6:180" ph="..." />
-            <marker date="1524011335332" expanded="true" signature="215:718" ph="{...}" />
-            <marker date="1524011335332" expanded="true" signature="262:716" ph="{...}" />
-            <marker date="1524011335332" expanded="true" signature="305:406" ph="{...}" />
-            <marker date="1524011335332" expanded="true" signature="453:558" ph="{...}" />
-            <marker date="1524011335332" expanded="true" signature="603:710" ph="{...}" />
+            <marker date="1524607984984" expanded="false" signature="6:206" ph="..." />
+            <marker date="1524607984984" expanded="true" signature="307:761" ph="{...}" />
+            <marker date="1524607984984" expanded="true" signature="350:451" ph="{...}" />
+            <marker date="1524607984984" expanded="true" signature="498:603" ph="{...}" />
+            <marker date="1524607984984" expanded="true" signature="648:755" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/LoginController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+          <folding>
+            <marker date="1524609206465" expanded="false" signature="6:213" ph="..." />
+            <marker date="1524609206465" expanded="true" signature="248:1096" ph="{...}" />
+            <marker date="1524609206465" expanded="true" signature="296:1094" ph="{...}" />
+            <marker date="1524609206465" expanded="true" signature="339:440" ph="{...}" />
+            <marker date="1524609206465" expanded="true" signature="530:913" ph="{...}" />
+            <marker date="1524609206465" expanded="true" signature="608:783" ph="{...}" />
+            <marker date="1524609206465" expanded="true" signature="960:1088" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/CategoriaController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <marker date="1524607984964" expanded="false" signature="6:206" ph="..." />
+            <marker date="1524607984964" expanded="true" signature="312:781" ph="{...}" />
+            <marker date="1524607984964" expanded="true" signature="355:461" ph="{...}" />
+            <marker date="1524607984964" expanded="true" signature="508:618" ph="{...}" />
+            <marker date="1524607984964" expanded="true" signature="663:775" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/ContatoController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <marker date="1524607984944" expanded="false" signature="6:206" ph="..." />
+            <marker date="1524607984944" expanded="true" signature="310:463" ph="{...}" />
+            <marker date="1524607984944" expanded="true" signature="353:457" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Filtro/FiltroAcesso.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="64" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
+          <folding>
+            <marker date="1524608863198" expanded="false" signature="6:140" ph="..." />
+            <marker date="1524608863198" expanded="true" signature="170:694" ph="{...}" />
+            <marker date="1524608863198" expanded="true" signature="226:692" ph="{...}" />
+            <marker date="1524608863198" expanded="true" signature="311:686" ph="{...}" />
+            <marker date="1524608863198" expanded="true" signature="430:676" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/PostController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <marker date="1524607984984" expanded="false" signature="6:206" ph="..." />
+            <marker date="1524607984984" expanded="true" signature="307:761" ph="{...}" />
+            <marker date="1524607984984" expanded="true" signature="350:451" ph="{...}" />
+            <marker date="1524607984984" expanded="true" signature="498:603" ph="{...}" />
+            <marker date="1524607984984" expanded="true" signature="648:755" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/LoginController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+          <folding>
+            <marker date="1524609206465" expanded="false" signature="6:213" ph="..." />
+            <marker date="1524609206465" expanded="true" signature="248:1096" ph="{...}" />
+            <marker date="1524609206465" expanded="true" signature="296:1094" ph="{...}" />
+            <marker date="1524609206465" expanded="true" signature="339:440" ph="{...}" />
+            <marker date="1524609206465" expanded="true" signature="530:913" ph="{...}" />
+            <marker date="1524609206465" expanded="true" signature="608:783" ph="{...}" />
+            <marker date="1524609206465" expanded="true" signature="960:1088" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/CategoriaController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <marker date="1524607984964" expanded="false" signature="6:206" ph="..." />
+            <marker date="1524607984964" expanded="true" signature="312:781" ph="{...}" />
+            <marker date="1524607984964" expanded="true" signature="355:461" ph="{...}" />
+            <marker date="1524607984964" expanded="true" signature="508:618" ph="{...}" />
+            <marker date="1524607984964" expanded="true" signature="663:775" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/ContatoController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <marker date="1524607984944" expanded="false" signature="6:206" ph="..." />
+            <marker date="1524607984944" expanded="true" signature="310:463" ph="{...}" />
+            <marker date="1524607984944" expanded="true" signature="353:457" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Filtro/FiltroAcesso.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="64" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
+          <folding>
+            <marker date="1524608863198" expanded="false" signature="6:140" ph="..." />
+            <marker date="1524608863198" expanded="true" signature="170:694" ph="{...}" />
+            <marker date="1524608863198" expanded="true" signature="226:692" ph="{...}" />
+            <marker date="1524608863198" expanded="true" signature="311:686" ph="{...}" />
+            <marker date="1524608863198" expanded="true" signature="430:676" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_LayoutAdmin.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="51" column="52" selection-start-line="51" selection-start-column="52" selection-end-line="51" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Categoria/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/PostController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+          <folding>
+            <marker date="1524607984984" expanded="false" signature="6:206" ph="..." />
+            <marker date="1524607984984" expanded="true" signature="307:761" ph="{...}" />
+            <marker date="1524607984984" expanded="true" signature="350:451" ph="{...}" />
+            <marker date="1524607984984" expanded="true" signature="498:603" ph="{...}" />
+            <marker date="1524607984984" expanded="true" signature="648:755" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -446,445 +568,367 @@
     <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Post/Index.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
-          <caret line="27" column="35" lean-forward="false" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
-          <folding>
-            <marker date="1524012658895" expanded="true" signature="0:33" ph="@..." />
-            <marker date="1524012658895" expanded="true" signature="35:737" ph="&lt;div.../&gt;" />
-            <marker date="1524012658895" expanded="true" signature="154:725" ph="&lt;table.../&gt;" />
-            <marker date="1524012658895" expanded="true" signature="193:348" ph="&lt;thead.../&gt;" />
-            <marker date="1524012658895" expanded="true" signature="209:331" ph="&lt;tr.../&gt;" />
-            <marker date="1524012658895" expanded="true" signature="366:703" ph="&lt;tbody.../&gt;" />
-            <marker date="1524012658895" expanded="true" signature="382:686" ph="&lt;tr.../&gt;" />
-            <marker date="1524012658895" expanded="true" signature="485:672" ph="&lt;td.../&gt;" />
-            <marker date="1524012658895" expanded="true" signature="739:1481" ph="&lt;script.../&gt;" />
-            <marker date="1524012658895" expanded="true" signature="781:1470" ph="{...}" />
-            <marker date="1524012658895" expanded="true" signature="797:1129" ph="{...}" />
-            <marker date="1524012658895" expanded="true" signature="1148:1461" ph="{...}" />
-            <marker date="1524012658895" expanded="true" signature="1167:1380" ph="{...}" />
-            <marker date="1524012658895" expanded="true" signature="1399:1449" ph="{...}" />
-          </folding>
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Post/Create.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="6" />
-          <folding>
-            <marker date="1524011580403" expanded="true" signature="0:33" ph="@..." />
-            <marker date="1524011580403" expanded="true" signature="144:1418" ph="&lt;form.../&gt;" />
-            <marker date="1524011580403" expanded="true" signature="193:505" ph="&lt;div.../&gt;" />
-            <marker date="1524011580403" expanded="true" signature="299:477" ph="&lt;select.../&gt;" />
-            <marker date="1524011580403" expanded="true" signature="523:700" ph="&lt;div.../&gt;" />
-            <marker date="1524011580403" expanded="true" signature="718:902" ph="&lt;div.../&gt;" />
-            <marker date="1524011580403" expanded="true" signature="920:1076" ph="&lt;div.../&gt;" />
-            <marker date="1524011580403" expanded="true" signature="1094:1242" ph="&lt;div.../&gt;" />
-            <marker date="1524011580403" expanded="true" signature="1284:1397" ph="&lt;div.../&gt;" />
-          </folding>
+        <state>
+          <caret selection-end-line="50" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Post/Edit.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
-          <caret line="39" column="74" lean-forward="false" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
-          <folding>
-            <marker date="1524011616131" expanded="true" signature="0:33" ph="@..." />
-            <marker date="1524011616131" expanded="true" signature="35:1475" ph="&lt;div.../&gt;" />
-            <marker date="1524011616131" expanded="true" signature="144:1463" ph="&lt;form.../&gt;" />
-            <marker date="1524011616131" expanded="true" signature="193:505" ph="&lt;div.../&gt;" />
-            <marker date="1524011616131" expanded="true" signature="299:477" ph="&lt;select.../&gt;" />
-            <marker date="1524011616131" expanded="true" signature="523:715" ph="&lt;div.../&gt;" />
-            <marker date="1524011616131" expanded="true" signature="733:927" ph="&lt;div.../&gt;" />
-            <marker date="1524011616131" expanded="true" signature="945:1109" ph="&lt;div.../&gt;" />
-            <marker date="1524011616131" expanded="true" signature="1127:1287" ph="&lt;div.../&gt;" />
-            <marker date="1524011616131" expanded="true" signature="1329:1442" ph="&lt;div.../&gt;" />
-          </folding>
+          <caret line="39" column="74" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/PostController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding>
-            <marker date="1524011335332" expanded="false" signature="6:180" ph="..." />
-            <marker date="1524011335332" expanded="true" signature="215:718" ph="{...}" />
-            <marker date="1524011335332" expanded="true" signature="262:716" ph="{...}" />
-            <marker date="1524011335332" expanded="true" signature="305:406" ph="{...}" />
-            <marker date="1524011335332" expanded="true" signature="453:558" ph="{...}" />
-            <marker date="1524011335332" expanded="true" signature="603:710" ph="{...}" />
+            <marker date="1524607984984" expanded="false" signature="6:206" ph="..." />
+            <marker date="1524607984984" expanded="true" signature="307:761" ph="{...}" />
+            <marker date="1524607984984" expanded="true" signature="350:451" ph="{...}" />
+            <marker date="1524607984984" expanded="true" signature="498:603" ph="{...}" />
+            <marker date="1524607984984" expanded="true" signature="648:755" ph="{...}" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Post/Index.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1524012658895" expanded="true" signature="0:33" ph="@..." />
-            <marker date="1524012658895" expanded="true" signature="35:737" ph="&lt;div.../&gt;" />
-            <marker date="1524012658895" expanded="true" signature="154:725" ph="&lt;table.../&gt;" />
-            <marker date="1524012658895" expanded="true" signature="193:348" ph="&lt;thead.../&gt;" />
-            <marker date="1524012658895" expanded="true" signature="209:331" ph="&lt;tr.../&gt;" />
-            <marker date="1524012658895" expanded="true" signature="366:703" ph="&lt;tbody.../&gt;" />
-            <marker date="1524012658895" expanded="true" signature="382:686" ph="&lt;tr.../&gt;" />
-            <marker date="1524012658895" expanded="true" signature="485:672" ph="&lt;td.../&gt;" />
-            <marker date="1524012658895" expanded="true" signature="739:1481" ph="&lt;script.../&gt;" />
-            <marker date="1524012658895" expanded="true" signature="781:1470" ph="{...}" />
-            <marker date="1524012658895" expanded="true" signature="797:1129" ph="{...}" />
-            <marker date="1524012658895" expanded="true" signature="1148:1461" ph="{...}" />
-            <marker date="1524012658895" expanded="true" signature="1167:1380" ph="{...}" />
-            <marker date="1524012658895" expanded="true" signature="1399:1449" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/HomeController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/HomeController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_Navbar.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/HomeController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Sobre.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Contato.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="6" />
+        <state>
+          <caret selection-end-line="46" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_Layout.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
-          <caret line="35" column="20" lean-forward="false" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Index.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="864">
-          <caret line="48" column="16" lean-forward="false" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_Layout.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Index.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/_ViewImports.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Views/_ViewStart.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="1" column="21" lean-forward="false" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Home/About.cshtml" />
-    <entry file="file://$PROJECT_DIR$/blogNetCore/wwwroot/css/clean-blog.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore/wwwroot/images/about-bg.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore/wwwroot/js/clean-blog.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Sobre.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Contato.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="46" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_Layout.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        <state>
+          <caret selection-end-line="46" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_Navbar.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="371">
-          <caret line="38" column="38" lean-forward="false" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Post.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="29" column="64" lean-forward="false" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Index.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="38" column="35" lean-forward="false" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+          <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/HomeController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
-          <caret line="32" column="40" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/ContatoController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <caret line="32" column="40" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/wwwroot/css/login.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_LayoutLogin.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/LoginController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="25" column="35" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore.sln">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Login/Index.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Contato/Index.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="37" selection-end-column="6" />
+          <caret line="4" selection-start-line="4" selection-end-line="37" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_NavbarAdmin.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="19" column="39" lean-forward="false" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Categoria/Create.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="15" column="87" lean-forward="false" selection-start-line="15" selection-start-column="87" selection-end-line="15" selection-end-column="87" />
+          <caret line="15" column="87" selection-start-line="15" selection-start-column="87" selection-end-line="15" selection-end-column="87" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Categoria/Edit.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
-          <caret line="15" column="107" lean-forward="false" selection-start-line="15" selection-start-column="107" selection-end-line="15" selection-end-column="107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/CategoriaController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="28" column="49" lean-forward="false" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+          <caret line="15" column="107" selection-start-line="15" selection-start-column="107" selection-end-line="15" selection-end-column="107" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Post/Create.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="6" />
-          <folding>
-            <marker date="1524011580403" expanded="true" signature="0:33" ph="@..." />
-            <marker date="1524011580403" expanded="true" signature="144:1418" ph="&lt;form.../&gt;" />
-            <marker date="1524011580403" expanded="true" signature="193:505" ph="&lt;div.../&gt;" />
-            <marker date="1524011580403" expanded="true" signature="299:477" ph="&lt;select.../&gt;" />
-            <marker date="1524011580403" expanded="true" signature="523:700" ph="&lt;div.../&gt;" />
-            <marker date="1524011580403" expanded="true" signature="718:902" ph="&lt;div.../&gt;" />
-            <marker date="1524011580403" expanded="true" signature="920:1076" ph="&lt;div.../&gt;" />
-            <marker date="1524011580403" expanded="true" signature="1094:1242" ph="&lt;div.../&gt;" />
-            <marker date="1524011580403" expanded="true" signature="1284:1397" ph="&lt;div.../&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore/wwwroot/lib/sweet-alert/dist/css/sweetalert2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state>
+          <caret selection-end-line="50" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Post/Edit.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="1" column="20" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_LayoutAdmin.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="51" column="52" selection-start-line="51" selection-start-column="52" selection-end-line="51" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Post/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Categoria/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Models/ErrorViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/CategoriaController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
           <folding>
-            <marker date="1524011616131" expanded="true" signature="0:33" ph="@..." />
-            <marker date="1524011616131" expanded="true" signature="35:1475" ph="&lt;div.../&gt;" />
-            <marker date="1524011616131" expanded="true" signature="144:1463" ph="&lt;form.../&gt;" />
-            <marker date="1524011616131" expanded="true" signature="193:505" ph="&lt;div.../&gt;" />
-            <marker date="1524011616131" expanded="true" signature="299:477" ph="&lt;select.../&gt;" />
-            <marker date="1524011616131" expanded="true" signature="523:715" ph="&lt;div.../&gt;" />
-            <marker date="1524011616131" expanded="true" signature="733:927" ph="&lt;div.../&gt;" />
-            <marker date="1524011616131" expanded="true" signature="945:1109" ph="&lt;div.../&gt;" />
-            <marker date="1524011616131" expanded="true" signature="1127:1287" ph="&lt;div.../&gt;" />
-            <marker date="1524011616131" expanded="true" signature="1329:1442" ph="&lt;div.../&gt;" />
+            <marker date="1524607984964" expanded="false" signature="6:206" ph="..." />
+            <marker date="1524607984964" expanded="true" signature="312:781" ph="{...}" />
+            <marker date="1524607984964" expanded="true" signature="355:461" ph="{...}" />
+            <marker date="1524607984964" expanded="true" signature="508:618" ph="{...}" />
+            <marker date="1524607984964" expanded="true" signature="663:775" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/ContatoController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <marker date="1524607984944" expanded="false" signature="6:206" ph="..." />
+            <marker date="1524607984944" expanded="true" signature="310:463" ph="{...}" />
+            <marker date="1524607984944" expanded="true" signature="353:457" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/PostController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="32" column="5" lean-forward="false" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="72">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
           <folding>
-            <marker date="1524011335332" expanded="false" signature="6:180" ph="..." />
-            <marker date="1524011335332" expanded="true" signature="215:718" ph="{...}" />
-            <marker date="1524011335332" expanded="true" signature="262:716" ph="{...}" />
-            <marker date="1524011335332" expanded="true" signature="305:406" ph="{...}" />
-            <marker date="1524011335332" expanded="true" signature="453:558" ph="{...}" />
-            <marker date="1524011335332" expanded="true" signature="603:710" ph="{...}" />
+            <marker date="1524607984984" expanded="false" signature="6:206" ph="..." />
+            <marker date="1524607984984" expanded="true" signature="307:761" ph="{...}" />
+            <marker date="1524607984984" expanded="true" signature="350:451" ph="{...}" />
+            <marker date="1524607984984" expanded="true" signature="498:603" ph="{...}" />
+            <marker date="1524607984984" expanded="true" signature="648:755" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_LayoutAdmin.cshtml">
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="51" column="52" lean-forward="false" selection-start-line="51" selection-start-column="52" selection-end-line="51" selection-end-column="52" />
+        <state relative-caret-position="-9">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
           <folding>
-            <marker date="1524012587491" expanded="true" signature="16:1810" ph="&lt;html.../&gt;" />
-            <marker date="1524012587491" expanded="true" signature="34:1384" ph="&lt;head.../&gt;" />
-            <marker date="1524012587491" expanded="true" signature="1386:1801" ph="&lt;body.../&gt;" />
+            <marker date="1524608929269" expanded="false" signature="6:258" ph="..." />
+            <marker date="1524608929269" expanded="true" signature="281:1505" ph="{...}" />
+            <marker date="1524608929269" expanded="true" signature="308:1503" ph="{...}" />
+            <marker date="1524608929269" expanded="true" signature="367:430" ph="{...}" />
+            <marker date="1524608929269" expanded="true" signature="653:789" ph="{...}" />
+            <marker date="1524608929269" expanded="true" signature="977:1497" ph="{...}" />
+            <marker date="1524608929269" expanded="true" signature="1024:1101" ph="{...}" />
+            <marker date="1524608929269" expanded="true" signature="1118:1202" ph="{...}" />
+            <marker date="1524608929269" expanded="true" signature="1314:1485" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Post/Index.cshtml">
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Filtro/FiltroAcesso.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="92" />
+        <state relative-caret-position="126">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
           <folding>
-            <marker date="1524012658895" expanded="true" signature="0:33" ph="@..." />
-            <marker date="1524012658895" expanded="true" signature="35:737" ph="&lt;div.../&gt;" />
-            <marker date="1524012658895" expanded="true" signature="154:725" ph="&lt;table.../&gt;" />
-            <marker date="1524012658895" expanded="true" signature="193:348" ph="&lt;thead.../&gt;" />
-            <marker date="1524012658895" expanded="true" signature="209:331" ph="&lt;tr.../&gt;" />
-            <marker date="1524012658895" expanded="true" signature="366:703" ph="&lt;tbody.../&gt;" />
-            <marker date="1524012658895" expanded="true" signature="382:686" ph="&lt;tr.../&gt;" />
-            <marker date="1524012658895" expanded="true" signature="485:672" ph="&lt;td.../&gt;" />
-            <marker date="1524012658895" expanded="true" signature="739:1481" ph="&lt;script.../&gt;" />
-            <marker date="1524012658895" expanded="true" signature="781:1470" ph="{...}" />
-            <marker date="1524012658895" expanded="true" signature="797:1129" ph="{...}" />
-            <marker date="1524012658895" expanded="true" signature="1148:1461" ph="{...}" />
-            <marker date="1524012658895" expanded="true" signature="1167:1380" ph="{...}" />
-            <marker date="1524012658895" expanded="true" signature="1399:1449" ph="{...}" />
+            <marker date="1524608863198" expanded="false" signature="6:140" ph="..." />
+            <marker date="1524608863198" expanded="true" signature="170:694" ph="{...}" />
+            <marker date="1524608863198" expanded="true" signature="226:692" ph="{...}" />
+            <marker date="1524608863198" expanded="true" signature="311:686" ph="{...}" />
+            <marker date="1524608863198" expanded="true" signature="430:676" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Categoria/Index.cshtml">
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/LoginController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        <state relative-caret-position="355">
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="27" />
           <folding>
-            <marker date="1524012705147" expanded="true" signature="0:33" ph="@..." />
-            <marker date="1524012705147" expanded="true" signature="35:694" ph="&lt;div.../&gt;" />
-            <marker date="1524012705147" expanded="true" signature="164:682" ph="&lt;table.../&gt;" />
-            <marker date="1524012705147" expanded="true" signature="203:330" ph="&lt;thead.../&gt;" />
-            <marker date="1524012705147" expanded="true" signature="219:313" ph="&lt;tr.../&gt;" />
-            <marker date="1524012705147" expanded="true" signature="348:660" ph="&lt;tbody.../&gt;" />
-            <marker date="1524012705147" expanded="true" signature="364:643" ph="&lt;tr.../&gt;" />
-            <marker date="1524012705147" expanded="true" signature="437:629" ph="&lt;td.../&gt;" />
-            <marker date="1524012705147" expanded="true" signature="696:1438" ph="&lt;script.../&gt;" />
-            <marker date="1524012705147" expanded="true" signature="738:1427" ph="{...}" />
-            <marker date="1524012705147" expanded="true" signature="754:1086" ph="{...}" />
-            <marker date="1524012705147" expanded="true" signature="1105:1418" ph="{...}" />
-            <marker date="1524012705147" expanded="true" signature="1124:1337" ph="{...}" />
-            <marker date="1524012705147" expanded="true" signature="1356:1406" ph="{...}" />
+            <marker date="1524609206465" expanded="false" signature="6:213" ph="..." />
+            <marker date="1524609206465" expanded="true" signature="248:1096" ph="{...}" />
+            <marker date="1524609206465" expanded="true" signature="296:1094" ph="{...}" />
+            <marker date="1524609206465" expanded="true" signature="339:440" ph="{...}" />
+            <marker date="1524609206465" expanded="true" signature="530:913" ph="{...}" />
+            <marker date="1524609206465" expanded="true" signature="608:783" ph="{...}" />
+            <marker date="1524609206465" expanded="true" signature="960:1088" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Post.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="49" lean-forward="true" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+          <folding>
+            <marker date="1523408044037" expanded="true" signature="0:4023" ph="&lt;article.../&gt;" />
+            <marker date="1523408044037" expanded="true" signature="18:4008" ph="&lt;div.../&gt;" />
+            <marker date="1523408044037" expanded="true" signature="54:3993" ph="&lt;div.../&gt;" />
+            <marker date="1523408044037" expanded="true" signature="88:3974" ph="&lt;div.../&gt;" />
+            <marker date="1523408044037" expanded="true" signature="3017:3150" ph="&lt;a.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+          <folding>
+            <marker date="1523408080465" expanded="true" signature="22:2221" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="50:2214" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="76:2203" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="153:656" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="196:532" ph="&lt;a.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="238:369" ph="&lt;h2.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="390:511" ph="&lt;h3.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="686:1083" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="729:959" ph="&lt;a.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="771:938" ph="&lt;h2.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1113:1627" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1156:1506" ph="&lt;a.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1198:1309" ph="&lt;h2.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1330:1485" ph="&lt;h3.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1657:2171" ph="&lt;div.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1700:2053" ph="&lt;a.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1742:1840" ph="&lt;h2.../&gt;" />
+            <marker date="1523408080465" expanded="true" signature="1861:2032" ph="&lt;h3.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <marker date="1523407909182" expanded="true" signature="16:3242" ph="&lt;html.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="34:1356" ph="&lt;head.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1358:3233" ph="&lt;body.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1429:2892" ph="&lt;footer.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1442:2882" ph="&lt;div.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1474:2871" ph="&lt;div.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1504:2856" ph="&lt;div.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1585:2750" ph="&lt;ul.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1642:1990" ph="&lt;li.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1671:1964" ph="&lt;a.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="1712:1935" ph="&lt;span.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="2011:2360" ph="&lt;li.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="2040:2334" ph="&lt;a.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="2081:2305" ph="&lt;span.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="2381:2728" ph="&lt;li.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="2410:2702" ph="&lt;a.../&gt;" />
+            <marker date="1523407909182" expanded="true" signature="2451:2673" ph="&lt;span.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Login/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <marker date="1524609284230" expanded="true" signature="0:33" ph="@..." />
+            <marker date="1524609284230" expanded="true" signature="35:1100" ph="&lt;div.../&gt;" />
+            <marker date="1524609284230" expanded="true" signature="63:1093" ph="&lt;div.../&gt;" />
+            <marker date="1524609284230" expanded="true" signature="89:1082" ph="&lt;div.../&gt;" />
+            <marker date="1524609284230" expanded="true" signature="140:1067" ph="&lt;div.../&gt;" />
+            <marker date="1524609284230" expanded="true" signature="310:1048" ph="&lt;form.../&gt;" />
+            <marker date="1524609284230" expanded="true" signature="759:1003" ph="&lt;div.../&gt;" />
+            <marker date="1524609284230" expanded="true" signature="805:976" ph="&lt;span.../&gt;" />
           </folding>
         </state>
       </provider>

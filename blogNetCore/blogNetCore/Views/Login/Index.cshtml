@@ -9,12 +9,14 @@
                 
                 <h4>Bem vindo!</h4>
                 
+                <p class="text-danger text-center">@ViewData["error"]</p>
+                
                 <form action="/Login/Autenticar" method="POST">
                     
-                    <input type="text" id="usuario" class="form-control input-sm chat-input" placeholder="usuario" />
+                    <input type="text" id="usuario" name="usuario" class="form-control input-sm chat-input" placeholder="usuario" />
                     <br />
                     
-                    <input type="text" id="senha" class="form-control input-sm chat-input" placeholder="senha" />
+                    <input type="password" id="senha" name="senha" class="form-control input-sm chat-input" placeholder="senha" />
                     <br />
                     
                     <div class="wrapper">
