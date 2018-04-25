@@ -8,3 +8,13 @@
 /home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.AssemblyInfo.cs
 /home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.dll
 /home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.pdb
+/home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.csproj.GenerateResource.Cache
+/home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/bin/Debug/netcoreapp2.0/en-US/blogNetCore.resources.dll
+/home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.Internacionalizacao.traducao.en-US.resources
+/home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/obj/Debug/netcoreapp2.0/en-US/blogNetCore.resources.cs
+/home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/obj/Debug/netcoreapp2.0/en-US/blogNetCore.resources.dll
+/home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.Internacionalizacao.traducao.resources
+/home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/bin/Debug/netcoreapp2.0/es-ES/blogNetCore.resources.dll
+/home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.Internacionalizacao.traducao.es-ES.resources
+/home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/obj/Debug/netcoreapp2.0/es-ES/blogNetCore.resources.cs
+/home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/obj/Debug/netcoreapp2.0/es-ES/blogNetCore.resources.dll

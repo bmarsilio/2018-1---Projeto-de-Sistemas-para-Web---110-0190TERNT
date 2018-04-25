@@ -31,6 +31,14 @@
         "runtime": {
           "blogNetCore.dll": {}
         },
+        "resources": {
+          "en-US/blogNetCore.resources.dll": {
+            "locale": "en-US"
+          },
+          "es-ES/blogNetCore.resources.dll": {
+            "locale": "es-ES"
+          }
+        },
         "compile": {
           "blogNetCore.dll": {}
         }
