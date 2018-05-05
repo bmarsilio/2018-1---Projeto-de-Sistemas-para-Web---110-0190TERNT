@@ -13,21 +13,24 @@
         <div class="form-group">
             
             <label for="categoria">@blogNetCore.Internacionalizacao.traducao.categoria: *</label>
-            <select class="form-control" name="categoria" required="required">
+            <select class="form-control" name="categoria" id="categoria" data-val="true" required="required" data-val-required="@blogNetCore.Internacionalizacao.traducao.campo_obrigatorio">
                 <option>Categoria 1</option>
                 <option>Categoria 2</option>
             </select>
+            <span class="text-danger field-validation-valid" data-valmsg-for="categoria" data-valmsg-replace="true"></span>
             
         </div>
         
         <div class="form-group">
             <label for="titulo">@blogNetCore.Internacionalizacao.traducao.titulo: *</label>
-            <input type="text" class="form-control" name="titulo" required="required"/>
+            <input type="text" class="form-control" name="titulo" id="titulo" data-val="true" required="required" data-val-required="@blogNetCore.Internacionalizacao.traducao.campo_obrigatorio"/>
+            <span class="text-danger field-validation-valid" data-valmsg-for="titulo" data-valmsg-replace="true"></span>
         </div>
         
         <div class="form-group">
             <label for="conteudo">@blogNetCore.Internacionalizacao.traducao.conteudo: *</label>
-            <textarea class="form-control" name="conteudo" required="required"></textarea>
+            <textarea class="form-control" name="conteudo" id="conteudo" data-val="true" required="required" data-val-required="@blogNetCore.Internacionalizacao.traducao.campo_obrigatorio"></textarea>
+            <span class="text-danger field-validation-valid" data-valmsg-for="conteudo" data-valmsg-replace="true"></span>
         </div>
         
         <div class="form-group">

@@ -199,5 +199,9 @@
     
     <data name="mensagem" xml:space="preserve">
         <value>Message</value>
+    </data>    
+    
+    <data name="campo_obrigatorio" xml:space="preserve">
+        <value>Required Field</value>
     </data>
 </root>

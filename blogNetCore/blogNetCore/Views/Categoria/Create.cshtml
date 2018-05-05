@@ -13,8 +13,9 @@
         <div class="form-group">
             
             <label for="descricao">@blogNetCore.Internacionalizacao.traducao.descricao: *</label>
-            <input type="text" class="form-control" name="descricao" required="required"/>
-            
+            <input type="text" class="form-control" name="descricao" id="descricao" data-val="true" required="required" data-val-required="@blogNetCore.Internacionalizacao.traducao.campo_obrigatorio"/>
+            <span class="text-danger field-validation-valid" data-valmsg-for="descricao" data-valmsg-replace="true"></span>
+          
         </div>
         
         <hr />

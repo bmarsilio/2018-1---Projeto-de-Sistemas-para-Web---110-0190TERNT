@@ -171,5 +171,11 @@ namespace blogNetCore.Internacionalizacao {
                 return ResourceManager.GetString("mensagem", resourceCulture);
             }
         }
+        
+        public static string campo_obrigatorio {
+            get {
+                return ResourceManager.GetString("campo_obrigatorio", resourceCulture);
+            }
+        }
     }
 }
