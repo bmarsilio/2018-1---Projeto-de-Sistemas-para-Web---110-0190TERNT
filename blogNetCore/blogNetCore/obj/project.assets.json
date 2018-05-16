@@ -12776,11 +12776,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/blogNetCore.csproj",
+      "projectUniqueName": "/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore/blogNetCore.csproj",
       "projectName": "blogNetCore",
-      "projectPath": "/home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/blogNetCore.csproj",
+      "projectPath": "/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore/blogNetCore.csproj",
       "packagesPath": "/home/brunomarsilio/.nuget/packages/",
-      "outputPath": "/home/brunomarsilio/RiderProjects/blogNetCore/blogNetCore/obj/",
+      "outputPath": "/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
