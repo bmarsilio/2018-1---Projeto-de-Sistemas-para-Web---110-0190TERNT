@@ -8,7 +8,7 @@ namespace blogNetCore.Dominio.Entidades.Posts
         public Guid id { get; set; }
         
         [Required]
-        public int categoria_id { get; set; }
+        public Guid categoria_id { get; set; }
         
         [Required]
         public string titulo { get; set; }
