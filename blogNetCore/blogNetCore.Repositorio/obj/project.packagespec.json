@@ -14,7 +14,11 @@
     ],
     "frameworks": {
       "netcoreapp2.0": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore.Dominio/blogNetCore.Dominio.csproj": {
+            "projectPath": "/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore.Dominio/blogNetCore.Dominio.csproj"
+          }
+        }
       }
     },
     "warningProperties": {
@@ -31,6 +35,10 @@
           "target": "Package",
           "version": "[2.0.0, )",
           "autoReferenced": true
+        },
+        "MySql.Data": {
+          "target": "Package",
+          "version": "[8.0.11, )"
         }
       },
       "imports": [

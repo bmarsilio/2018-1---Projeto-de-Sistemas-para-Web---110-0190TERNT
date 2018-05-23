@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blogNetCore.Repositorio", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blogNetCore.Servicos", "blogNetCore.Servicos\blogNetCore.Servicos.csproj", "{C20BF3CD-560B-40E0-9DD5-7C4AE0A9089D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blogNetCore.Repositorio.Teste", "blogNetCore.Repositorio.Teste\blogNetCore.Repositorio.Teste.csproj", "{644E60BC-F5EC-4FC2-94EC-CA909282EB7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -52,6 +54,10 @@ Global
 		{C20BF3CD-560B-40E0-9DD5-7C4AE0A9089D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C20BF3CD-560B-40E0-9DD5-7C4AE0A9089D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C20BF3CD-560B-40E0-9DD5-7C4AE0A9089D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{644E60BC-F5EC-4FC2-94EC-CA909282EB7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644E60BC-F5EC-4FC2-94EC-CA909282EB7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644E60BC-F5EC-4FC2-94EC-CA909282EB7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644E60BC-F5EC-4FC2-94EC-CA909282EB7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{0EDAD700-CCA4-4B5A-9EDE-B5BD0CFEF203} = {B27C0CE1-56F4-4072-8506-E32B04CBC867}
@@ -59,5 +65,6 @@ Global
 		{A9282E1D-AFA1-408D-B461-992D595B4F69} = {1BFE5423-9BE4-4489-93B9-0335E38954DF}
 		{2CD1B11B-9536-4D6B-9182-E7BC8DDC2B7E} = {B55B77A8-4569-4045-A695-0371E861BD39}
 		{C20BF3CD-560B-40E0-9DD5-7C4AE0A9089D} = {1C43758C-C27E-46E5-8958-DDCFAF6DE69C}
+		{644E60BC-F5EC-4FC2-94EC-CA909282EB7E} = {B55B77A8-4569-4045-A695-0371E861BD39}
 	EndGlobalSection
 EndGlobal

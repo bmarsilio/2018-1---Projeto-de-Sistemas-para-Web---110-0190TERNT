@@ -1,0 +1,62 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore.Repositorio.Teste/blogNetCore.Repositorio.Teste.csproj",
+    "projectName": "blogNetCore.Repositorio.Teste",
+    "projectPath": "/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore.Repositorio.Teste/blogNetCore.Repositorio.Teste.csproj",
+    "outputPath": "/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore.Repositorio.Teste/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore.Dominio/blogNetCore.Dominio.csproj": {
+            "projectPath": "/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore.Dominio/blogNetCore.Dominio.csproj"
+          },
+          "/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore.Repositorio/blogNetCore.Repositorio.csproj": {
+            "projectPath": "/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore.Repositorio/blogNetCore.Repositorio.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "MSTest.TestAdapter": {
+          "target": "Package",
+          "version": "[1.2.0, )"
+        },
+        "MSTest.TestFramework": {
+          "target": "Package",
+          "version": "[1.2.0, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.6.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

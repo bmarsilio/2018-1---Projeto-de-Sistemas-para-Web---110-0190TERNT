@@ -1,0 +1,8 @@
+/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore.Servicos/bin/Debug/netcoreapp2.0/blogNetCore.Servicos.deps.json
+/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore.Servicos/bin/Debug/netcoreapp2.0/blogNetCore.Servicos.dll
+/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore.Servicos/bin/Debug/netcoreapp2.0/blogNetCore.Servicos.pdb
+/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore.Servicos/obj/Debug/netcoreapp2.0/blogNetCore.Servicos.csproj.CoreCompileInputs.cache
+/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore.Servicos/obj/Debug/netcoreapp2.0/blogNetCore.Servicos.AssemblyInfoInputs.cache
+/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore.Servicos/obj/Debug/netcoreapp2.0/blogNetCore.Servicos.AssemblyInfo.cs
+/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore.Servicos/obj/Debug/netcoreapp2.0/blogNetCore.Servicos.dll
+/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore.Servicos/obj/Debug/netcoreapp2.0/blogNetCore.Servicos.pdb

@@ -10,20 +10,19 @@
       <change beforePath="$PROJECT_DIR$/../Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.blogNetCore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.blogNetCore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.blogNetCore/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.blogNetCore/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore.Aplicacao/obj/Debug/netcoreapp2.0/blogNetCore.Aplicacao.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore.Aplicacao/obj/Debug/netcoreapp2.0/blogNetCore.Aplicacao.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore.Apresentacao/obj/Debug/netcoreapp2.0/blogNetCore.Apresentacao.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore.Apresentacao/obj/Debug/netcoreapp2.0/blogNetCore.Apresentacao.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore.Dominio/blogNetCore.Dominio.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore.Dominio/blogNetCore.Dominio.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore.Dominio/obj/Debug/netcoreapp2.0/blogNetCore.Dominio.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore.Dominio/obj/Debug/netcoreapp2.0/blogNetCore.Dominio.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore.Repositorio/blogNetCore.Repositorio.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore.Repositorio/blogNetCore.Repositorio.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore.Repositorio/obj/Debug/netcoreapp2.0/blogNetCore.Repositorio.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore.Repositorio/obj/Debug/netcoreapp2.0/blogNetCore.Repositorio.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore.Repositorio/obj/blogNetCore.Repositorio.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore.Repositorio/obj/blogNetCore.Repositorio.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore.Repositorio/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore.Repositorio/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore.Repositorio/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore.Repositorio/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogNetCore.Servicos/obj/Debug/netcoreapp2.0/blogNetCore.Servicos.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore.Servicos/obj/Debug/netcoreapp2.0/blogNetCore.Servicos.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogNetCore.sln" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore.sln" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogNetCore.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogNetCore/bin/Debug/netcoreapp2.0/blogNetCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/bin/Debug/netcoreapp2.0/blogNetCore.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogNetCore/bin/Debug/netcoreapp2.0/blogNetCore.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/bin/Debug/netcoreapp2.0/blogNetCore.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogNetCore/blogNetCore.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/blogNetCore.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.dll" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogNetCore/obj/blogNetCore.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/obj/blogNetCore.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogNetCore/obj/blogNetCore.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/obj/blogNetCore.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogNetCore/obj/blogNetCore.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/obj/blogNetCore.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogNetCore/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogNetCore/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,55 +33,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Post.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogNetCore/Models/Post.cs">
+      <file leaf-file-name="CategoriaRepositorioTeste.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blogNetCore.Repositorio.Teste/CategoriaRepositorioTeste.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="118">
+              <caret line="70" column="71" selection-start-line="70" selection-start-column="71" selection-end-line="70" selection-end-column="71" />
               <folding>
-                <marker date="1525816712286" expanded="false" signature="6:67" ph="..." />
-                <marker date="1525816712286" expanded="true" signature="97:422" ph="{...}" />
-                <marker date="1525816712286" expanded="true" signature="121:420" ph="{...}" />
+                <marker date="1527035009414" expanded="true" signature="6:113" ph="..." />
+                <marker date="1527035009414" expanded="true" signature="154:2526" ph="{...}" />
+                <marker date="1527035009414" expanded="true" signature="215:2524" ph="{...}" />
+                <marker date="1527035009414" expanded="true" signature="276:826" ph="{...}" />
+                <marker date="1527035009414" expanded="true" signature="349:438" ph="{...}" />
+                <marker date="1527035009414" expanded="true" signature="456:695" ph="{...}" />
+                <marker date="1527035009414" expanded="true" signature="727:816" ph="{...}" />
+                <marker date="1527035009414" expanded="true" signature="891:1463" ph="{...}" />
+                <marker date="1527035009414" expanded="true" signature="1093:1332" ph="{...}" />
+                <marker date="1527035009414" expanded="true" signature="1364:1453" ph="{...}" />
+                <marker date="1527035009414" expanded="true" signature="1528:1989" ph="{...}" />
+                <marker date="1527035009414" expanded="true" signature="1626:1858" ph="{...}" />
+                <marker date="1527035009414" expanded="true" signature="1890:1979" ph="{...}" />
+                <marker date="1527035009414" expanded="true" signature="2055:2518" ph="{...}" />
+                <marker date="1527035009414" expanded="true" signature="2154:2387" ph="{...}" />
+                <marker date="1527035009414" expanded="true" signature="2419:2508" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Categoria.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogNetCore.Dominio/Entidades/Categorias/Categoria.cs">
+      <file leaf-file-name="CategoriaRepositorio.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blogNetCore.Repositorio/CategoriaRepositorio.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="36" />
+            <state relative-caret-position="343">
+              <caret line="99" selection-start-line="99" selection-end-line="99" />
               <folding>
-                <marker date="1526430465608" expanded="true" signature="6:58" ph="..." />
-                <marker date="1526430465608" expanded="true" signature="110:265" ph="{...}" />
-                <marker date="1526430465608" expanded="true" signature="139:263" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Post.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blogNetCore.Dominio/Entidades/Posts/Post.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-              <folding>
-                <marker date="1526430465616" expanded="true" signature="91:462" ph="{...}" />
-                <marker date="1526430465616" expanded="true" signature="115:460" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Categoria.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blogNetCore/Models/Categoria.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
-              <folding>
-                <marker date="1525816712286" expanded="true" signature="74:183" ph="{...}" />
-                <marker date="1525816712286" expanded="true" signature="103:181" ph="{...}" />
+                <marker date="1527035829097" expanded="false" signature="6:129" ph="..." />
+                <marker date="1527035829097" expanded="true" signature="164:3126" ph="{...}" />
+                <marker date="1527035829097" expanded="true" signature="228:3124" ph="{...}" />
+                <marker date="1527035829097" expanded="true" signature="329:403" ph="{...}" />
+                <marker date="1527035829097" expanded="true" signature="453:1031" ph="{...}" />
+                <marker date="1527035829097" expanded="true" signature="552:1021" ph="{...}" />
+                <marker date="1527035829097" expanded="true" signature="1081:1655" ph="{...}" />
+                <marker date="1527035829097" expanded="true" signature="1180:1645" ph="{...}" />
+                <marker date="1527035829097" expanded="true" signature="1693:2152" ph="{...}" />
+                <marker date="1527035829097" expanded="true" signature="1792:2142" ph="{...}" />
+                <marker date="1527035829097" expanded="true" signature="2196:3118" ph="{...}" />
+                <marker date="1527035829097" expanded="true" signature="2348:3077" ph="{...}" />
+                <marker date="1527035829097" expanded="true" signature="2746:3063" ph="{...}" />
+                <marker date="1527035829097" expanded="true" signature="2876:3045" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -110,37 +107,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/blogNetCore.Aplicacao/Class1.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore.Servicos/Class1.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Contato.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Sobre.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Post.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Post/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Post/Create.cshtml" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Post/Edit.cshtml" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Login/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_Navbar.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_LayoutAdmin.cshtml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore.Aplicacao/obj/Debug/netcoreapp2.0/blogNetCore.Aplicacao.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/blogNetCore/Startup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Categoria.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_LayoutLogin.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_NavbarAdmin.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/blogNetCore.Apresentacao/Class1.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Contato/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Categoria/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/Controllers/CategoriaController.cs" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore.Dominio/Entidades/Categorias/Categoria.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Categoria/Create.cshtml" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Categoria/Edit.cshtml" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore.Dominio/Entidades/Posts/Post.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Filtro/FiltroAcesso.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Models/Post.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/blogNetCore/Models/Categoria.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/blogNetCore/Controllers/ContatoController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/blogNetCore.Dominio/Class1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/blogNetCore/Controllers/LoginController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -154,8 +125,38 @@
     <setting file="file://$PROJECT_DIR$/blogNetCore/Internacionalizacao/traducao.en-US.Designer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/blogNetCore/Internacionalizacao/traducao.Designer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/blogNetCore/Internacionalizacao/traducao.en-US.resx" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ClassLibrary1/Class1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/blogNetCore.Repositorio/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore.Repositorio.Teste/CategoriaRepositorioTeste.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore.Servicos/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Contato.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Sobre.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Post.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Post/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Post/Create.cshtml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Post/Edit.cshtml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Login/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_Navbar.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_LayoutAdmin.cshtml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Categoria.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_LayoutLogin.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_NavbarAdmin.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Contato/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Categoria/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore.Dominio/Entidades/Categorias/Categoria.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Categoria/Create.cshtml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Views/Categoria/Edit.cshtml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore.Dominio/Entidades/Posts/Post.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Filtro/FiltroAcesso.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Models/Post.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore/Models/Categoria.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore.Repositorio/CategoriaRepositorio.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blogNetCore.Dominio/Interfaces/ICategoriaRepositorio.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClassLibrary1/Class1.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -204,6 +205,12 @@
         <option value="$PROJECT_DIR$/blogNetCore.Dominio/Entidades/Categoria/Categoria.cs" />
         <option value="$PROJECT_DIR$/blogNetCore.Dominio/Entidades/Categorias/Categoria.cs" />
         <option value="$PROJECT_DIR$/blogNetCore.Dominio/Entidades/Posts/Post.cs" />
+        <option value="$PROJECT_DIR$/blogNetCore.Dominio/Interfaces/ICategoriaRepositorio.cs" />
+        <option value="$PROJECT_DIR$/blogNetCore.Repositorio.Test/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/blogNetCore.Repositorio.Teste/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/blogNetCore.Repositorio.Teste/TesteInserir.cs" />
+        <option value="$PROJECT_DIR$/blogNetCore.Repositorio.Teste/CategoriaRepositorioTeste.cs" />
+        <option value="$PROJECT_DIR$/blogNetCore.Repositorio/CategoriaRepositorio.cs" />
       </list>
     </option>
   </component>
@@ -224,58 +231,72 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="blogNetCore (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="blogNetCore (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="blogNetCore (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="blogNetCore (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Aplicacao" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="blogNetCore (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Aplicacao" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="blogNetCore.Aplicacao" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="blogNetCore (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Apresentacao" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="blogNetCore (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Apresentacao" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="blogNetCore.Apresentacao" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="blogNetCore (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Dominio" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="blogNetCore (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Dominio" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="blogNetCore.Dominio" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="blogNetCore (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Repositorio" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="blogNetCore (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Dominio" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="blogNetCore.Dominio" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Entidades" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="blogNetCore (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Repositorio" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="blogNetCore.Repositorio" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="blogNetCore (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Dominio" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="blogNetCore.Dominio" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Entidades" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Categorias" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="blogNetCore (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Repositorio" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="blogNetCore.Repositorio.Teste" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="blogNetCore (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Dominio" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="blogNetCore.Dominio" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Entidades" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Posts" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="blogNetCore (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Servicos" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="blogNetCore (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="blogNetCore (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Servicos" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="blogNetCore.Servicos" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="blogNetCore (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="blogNetCore" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="blogNetCore (6 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="blogNetCore" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -283,6 +304,7 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -307,7 +329,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Project.Default">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/blogNetCore/bin/Debug/netcoreapp2.0/blogNetCore.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -327,6 +349,9 @@
       <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
       <browser url="http://localhost:5000" />
     </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -355,12 +380,14 @@
       <workItem from="1525816929785" duration="287000" />
       <workItem from="1525817249771" duration="344000" />
       <workItem from="1525820248571" duration="890000" />
-      <workItem from="1526428723483" duration="1731000" />
+      <workItem from="1526428723483" duration="2445000" />
+      <workItem from="1527027558530" duration="5261000" />
+      <workItem from="1527033131383" duration="2695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18351000" />
+    <option name="totallyTimeSpent" value="27021000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -378,16 +405,16 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32903227" />
-      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" weight="0.32792208" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="REST Client" order="8" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32792208" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.48863637" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.487055" />
       <window_info anchor="bottom" id="NuGet" order="7" weight="0.45941558" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3272727" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3378788" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.32792208" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" visible="true" weight="0.25324675" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
@@ -409,31 +436,64 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/HomeController.cs">
+    <entry file="file://$PROJECT_DIR$/blogNetCore.Dominio/Interfaces/ICategoriaRepositorio.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        <state relative-caret-position="210">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <marker date="1527029144375" expanded="false" signature="6:61" ph="..." />
+            <marker date="1527029144375" expanded="true" signature="103:345" ph="{...}" />
+            <marker date="1527029144375" expanded="true" signature="148:343" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Sobre.cshtml">
+    <entry file="file://$PROJECT_DIR$/blogNetCore.Repositorio/CategoriaRepositorio.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="465">
+          <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+          <folding>
+            <marker date="1527035829097" expanded="false" signature="6:129" ph="..." />
+            <marker date="1527035829097" expanded="true" signature="164:3126" ph="{...}" />
+            <marker date="1527035829097" expanded="true" signature="228:3124" ph="{...}" />
+            <marker date="1527035829097" expanded="true" signature="329:403" ph="{...}" />
+            <marker date="1527035829097" expanded="true" signature="453:1031" ph="{...}" />
+            <marker date="1527035829097" expanded="true" signature="552:1021" ph="{...}" />
+            <marker date="1527035829097" expanded="true" signature="1081:1655" ph="{...}" />
+            <marker date="1527035829097" expanded="true" signature="1180:1645" ph="{...}" />
+            <marker date="1527035829097" expanded="true" signature="1693:2152" ph="{...}" />
+            <marker date="1527035829097" expanded="true" signature="1792:2142" ph="{...}" />
+            <marker date="1527035829097" expanded="true" signature="2196:3118" ph="{...}" />
+            <marker date="1527035829097" expanded="true" signature="2348:3077" ph="{...}" />
+            <marker date="1527035829097" expanded="true" signature="2746:3063" ph="{...}" />
+            <marker date="1527035829097" expanded="true" signature="2876:3045" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Home/Contato.cshtml">
+    <entry file="file://$PROJECT_DIR$/blogNetCore.Dominio/Entidades/Posts/Post.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="46" selection-end-column="6" />
+        <state relative-caret-position="90">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <marker date="1526430475269" expanded="false" signature="6:58" ph="..." />
+            <marker date="1526430475269" expanded="true" signature="105:476" ph="{...}" />
+            <marker date="1526430475269" expanded="true" signature="129:474" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore/Views/Shared/_Layout.cshtml">
+    <entry file="file://$PROJECT_DIR$/blogNetCore.Repositorio.Test/UnitTest1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        <state relative-caret-position="315">
+          <caret line="21" column="160" selection-start-line="21" selection-start-column="160" selection-end-line="21" selection-end-column="160" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore.Repositorio.Teste/CategoriaRepositorioTeste.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -669,74 +729,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore.sln">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/CategoriaController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="21" />
-          <folding>
-            <marker date="1525816712286" expanded="false" signature="6:206" ph="..." />
-            <marker date="1525816712286" expanded="true" signature="241:783" ph="{...}" />
-            <marker date="1525816712286" expanded="true" signature="312:781" ph="{...}" />
-            <marker date="1525816712286" expanded="true" signature="355:461" ph="{...}" />
-            <marker date="1525816712286" expanded="true" signature="508:618" ph="{...}" />
-            <marker date="1525816712286" expanded="true" signature="663:775" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore.Aplicacao/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1526429319164" expanded="true" signature="46:86" ph="{...}" />
-            <marker date="1526429319164" expanded="true" signature="72:84" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassLibrary1/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1526429206146" expanded="true" signature="38:78" ph="{...}" />
-            <marker date="1526429206146" expanded="true" signature="64:76" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore.Apresentacao/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1526429347304" expanded="true" signature="49:89" ph="{...}" />
-            <marker date="1526429347304" expanded="true" signature="75:87" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore.Repositorio/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1526429380969" expanded="true" signature="48:88" ph="{...}" />
-            <marker date="1526429380969" expanded="true" signature="74:86" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore.Servicos/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1526429390309" expanded="true" signature="45:85" ph="{...}" />
-            <marker date="1526429390309" expanded="true" signature="71:83" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Categoria.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -744,24 +736,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore.Dominio/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1526429368453" expanded="true" signature="44:84" ph="{...}" />
-            <marker date="1526429368453" expanded="true" signature="70:82" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore/Models/Categoria.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <marker date="1525816712286" expanded="true" signature="74:183" ph="{...}" />
-            <marker date="1525816712286" expanded="true" signature="103:181" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -769,33 +747,113 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <marker date="1525816712286" expanded="false" signature="6:67" ph="..." />
-            <marker date="1525816712286" expanded="true" signature="97:422" ph="{...}" />
-            <marker date="1525816712286" expanded="true" signature="121:420" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blogNetCore.Dominio/Entidades/Categorias/Categoria.cs">
+    <entry file="file://$PROJECT_DIR$/blogNetCore.Repositorio.Test/UnitTest1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="36" />
-          <folding>
-            <marker date="1526430465608" expanded="true" signature="6:58" ph="..." />
-            <marker date="1526430465608" expanded="true" signature="110:265" ph="{...}" />
-            <marker date="1526430465608" expanded="true" signature="139:263" ph="{...}" />
-          </folding>
+        <state relative-caret-position="315">
+          <caret line="21" column="160" selection-start-line="21" selection-start-column="160" selection-end-line="21" selection-end-column="160" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore/Controllers/CategoriaController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore.Repositorio.Teste/CategoriaRepositorioTeste.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blogNetCore.Dominio/Entidades/Posts/Post.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
           <folding>
-            <marker date="1526430465616" expanded="true" signature="91:462" ph="{...}" />
-            <marker date="1526430465616" expanded="true" signature="115:460" ph="{...}" />
+            <marker date="1526430475269" expanded="false" signature="6:58" ph="..." />
+            <marker date="1526430475269" expanded="true" signature="105:476" ph="{...}" />
+            <marker date="1526430475269" expanded="true" signature="129:474" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore.Dominio/Interfaces/ICategoriaRepositorio.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <marker date="1527029144375" expanded="false" signature="6:61" ph="..." />
+            <marker date="1527029144375" expanded="true" signature="103:345" ph="{...}" />
+            <marker date="1527029144375" expanded="true" signature="148:343" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore.Dominio/Entidades/Categorias/Categoria.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="39" />
+          <folding>
+            <marker date="1526430465608" expanded="false" signature="6:58" ph="..." />
+            <marker date="1526430465608" expanded="true" signature="110:265" ph="{...}" />
+            <marker date="1526430465608" expanded="true" signature="139:263" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore.sln">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore.Repositorio.Teste/CategoriaRepositorioTeste.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="70" column="71" selection-start-line="70" selection-start-column="71" selection-end-line="70" selection-end-column="71" />
+          <folding>
+            <marker date="1527035009414" expanded="true" signature="6:113" ph="..." />
+            <marker date="1527035009414" expanded="true" signature="154:2526" ph="{...}" />
+            <marker date="1527035009414" expanded="true" signature="215:2524" ph="{...}" />
+            <marker date="1527035009414" expanded="true" signature="276:826" ph="{...}" />
+            <marker date="1527035009414" expanded="true" signature="349:438" ph="{...}" />
+            <marker date="1527035009414" expanded="true" signature="456:695" ph="{...}" />
+            <marker date="1527035009414" expanded="true" signature="727:816" ph="{...}" />
+            <marker date="1527035009414" expanded="true" signature="891:1463" ph="{...}" />
+            <marker date="1527035009414" expanded="true" signature="1093:1332" ph="{...}" />
+            <marker date="1527035009414" expanded="true" signature="1364:1453" ph="{...}" />
+            <marker date="1527035009414" expanded="true" signature="1528:1989" ph="{...}" />
+            <marker date="1527035009414" expanded="true" signature="1626:1858" ph="{...}" />
+            <marker date="1527035009414" expanded="true" signature="1890:1979" ph="{...}" />
+            <marker date="1527035009414" expanded="true" signature="2055:2518" ph="{...}" />
+            <marker date="1527035009414" expanded="true" signature="2154:2387" ph="{...}" />
+            <marker date="1527035009414" expanded="true" signature="2419:2508" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogNetCore.Repositorio/CategoriaRepositorio.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+          <folding>
+            <marker date="1527035829097" expanded="false" signature="6:129" ph="..." />
+            <marker date="1527035829097" expanded="true" signature="164:3126" ph="{...}" />
+            <marker date="1527035829097" expanded="true" signature="228:3124" ph="{...}" />
+            <marker date="1527035829097" expanded="true" signature="329:403" ph="{...}" />
+            <marker date="1527035829097" expanded="true" signature="453:1031" ph="{...}" />
+            <marker date="1527035829097" expanded="true" signature="552:1021" ph="{...}" />
+            <marker date="1527035829097" expanded="true" signature="1081:1655" ph="{...}" />
+            <marker date="1527035829097" expanded="true" signature="1180:1645" ph="{...}" />
+            <marker date="1527035829097" expanded="true" signature="1693:2152" ph="{...}" />
+            <marker date="1527035829097" expanded="true" signature="1792:2142" ph="{...}" />
+            <marker date="1527035829097" expanded="true" signature="2196:3118" ph="{...}" />
+            <marker date="1527035829097" expanded="true" signature="2348:3077" ph="{...}" />
+            <marker date="1527035829097" expanded="true" signature="2746:3063" ph="{...}" />
+            <marker date="1527035829097" expanded="true" signature="2876:3045" ph="{...}" />
           </folding>
         </state>
       </provider>
