@@ -7,18 +7,33 @@ namespace blogNetCore.Repositorio.Teste
     [TestClass]
     public class CategoriaRepositorioTeste
     {
+        private String server;
+        private String database;
+        private String uid;
+        private String pwd;
+        private String sslmode;
+        
+        public CategoriaRepositorioTeste()
+        {
+            this.server = "localhost";
+            this.database = "blogNetCore";
+            this.uid = "root";
+            this.pwd = "";
+            this.sslmode = "none";
+        }
+        
         [TestMethod]
         public void TesteGravar()
         {
             Categoria categoria = new Categoria()
             {
                 id = Guid.NewGuid(),
-                descricao = "salame"
+                descricao = "categoria"
             };
 
             try
             {
-                CategoriaRepositorio categoriaRepositorio = new CategoriaRepositorio("Server=localhost;Database=blogNetCore;Uid=root;Pwd=;SslMode=none");
+                CategoriaRepositorio categoriaRepositorio = new CategoriaRepositorio("Server="+this.server+";Database="+this.database+";Uid="+this.uid+";Pwd="+this.pwd+";SslMode="+this.sslmode+"");
                 categoriaRepositorio.Inserir(categoria);
             }
             catch (Exception e)
@@ -33,12 +48,12 @@ namespace blogNetCore.Repositorio.Teste
         {
             Categoria categoria = new Categoria();
 
-            categoria.id = new Guid("1334470b-9a8b-4cb3-b267-78156175bf89");
-            categoria.descricao = "salame 1";
+            categoria.id = new Guid("d26a1b32-40bf-4d52-8765-f4d9292d868f");
+            categoria.descricao = "categoria 1";
 
             try
             {
-                CategoriaRepositorio categoriaRepositorio = new CategoriaRepositorio("Server=localhost;Database=blogNetCore;Uid=root;Pwd=;SslMode=none");
+                CategoriaRepositorio categoriaRepositorio = new CategoriaRepositorio("Server="+this.server+";Database="+this.database+";Uid="+this.uid+";Pwd="+this.pwd+";SslMode="+this.sslmode+"");
                 categoriaRepositorio.Alterar(categoria);
             }
             catch (Exception e)
@@ -51,11 +66,11 @@ namespace blogNetCore.Repositorio.Teste
         [TestMethod]
         public void TesteExcluir()
         {
-           Guid id = new Guid("1334470b-9a8b-4cb3-b267-78156175bf89");
+            Guid id = new Guid("1334470b-9a8b-4cb3-b267-78156175bf89");
 
             try
             {
-                CategoriaRepositorio categoriaRepositorio = new CategoriaRepositorio("Server=localhost;Database=blogNetCore;Uid=root;Pwd=;SslMode=none");
+                CategoriaRepositorio categoriaRepositorio = new CategoriaRepositorio("Server="+this.server+";Database="+this.database+";Uid="+this.uid+";Pwd="+this.pwd+";SslMode="+this.sslmode+"");
                 categoriaRepositorio.Excluir(id);
             }
             catch (Exception e)
@@ -72,7 +87,7 @@ namespace blogNetCore.Repositorio.Teste
 
             try
             {
-                CategoriaRepositorio categoriaRepositorio = new CategoriaRepositorio("Server=localhost;Database=blogNetCore;Uid=root;Pwd=;SslMode=none");
+                CategoriaRepositorio categoriaRepositorio = new CategoriaRepositorio("Server="+this.server+";Database="+this.database+";Uid="+this.uid+";Pwd="+this.pwd+";SslMode="+this.sslmode+"");
                 categoriaRepositorio.Procurar(id);
             }
             catch (Exception e)

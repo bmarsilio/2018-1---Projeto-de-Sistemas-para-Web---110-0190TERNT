@@ -7,6 +7,21 @@ namespace blogNetCore.Repositorio.Teste
     [TestClass]
     public class PostRepositorioTeste
     {
+        private String server;
+        private String database;
+        private String uid;
+        private String pwd;
+        private String sslmode;
+        
+        public PostRepositorioTeste()
+        {
+            this.server = "localhost";
+            this.database = "blogNetCore";
+            this.uid = "root";
+            this.pwd = "";
+            this.sslmode = "none";
+        }
+
         [TestMethod]
         public void TesteGravar()
         {
@@ -22,7 +37,7 @@ namespace blogNetCore.Repositorio.Teste
 
             try
             {
-                PostRepositorio postRepositorio = new PostRepositorio("Server=localhost;Database=blogNetCore;Uid=root;Pwd=;SslMode=none");
+                PostRepositorio postRepositorio = new PostRepositorio("Server="+this.server+";Database="+this.database+";Uid="+this.uid+";Pwd="+this.pwd+";SslMode="+this.sslmode+"");
                 postRepositorio.Inserir(post);
             }
             catch (Exception e)
@@ -35,61 +50,59 @@ namespace blogNetCore.Repositorio.Teste
         [TestMethod]
         public void TesteAlterar()
         {
-            /*
-            Categoria categoria = new Categoria();
+            Post post = new Post();
 
-            categoria.id = new Guid("1334470b-9a8b-4cb3-b267-78156175bf89");
-            categoria.descricao = "salame 1";
+            post.id = new Guid("a758d194-7a19-408e-81e8-c146fe19d1d6");
+            post.categoria_id = new Guid("ccdb5c4b-4a00-47d6-8921-000243470fb5");
+            post.titulo = "titulo do post 1";
+            post.conteudo = "conteudo do post 1";
+            post.resumo = "resumo do post 1";
+            post.tag = "tag do post 1";
 
             try
             {
-                CategoriaRepositorio categoriaRepositorio = new CategoriaRepositorio("Server=localhost;Database=blogNetCore;Uid=root;Pwd=;SslMode=none");
-                categoriaRepositorio.Alterar(categoria);
+                PostRepositorio postRepositorio = new PostRepositorio("Server="+this.server+";Database="+this.database+";Uid="+this.uid+";Pwd="+this.pwd+";SslMode="+this.sslmode+"");
+                postRepositorio.Alterar(post);
             }
             catch (Exception e)
             {
                 Console.WriteLine(e);
                 throw;
             }
-            */
         }
         
         [TestMethod]
         public void TesteExcluir()
         {
-            /*
-           Guid id = new Guid("1334470b-9a8b-4cb3-b267-78156175bf89");
+            Guid id = new Guid("a758d194-7a19-408e-81e8-c146fe19d1d6");
 
             try
             {
-                CategoriaRepositorio categoriaRepositorio = new CategoriaRepositorio("Server=localhost;Database=blogNetCore;Uid=root;Pwd=;SslMode=none");
-                categoriaRepositorio.Excluir(id);
+                PostRepositorio postRepositorio = new PostRepositorio("Server="+this.server+";Database="+this.database+";Uid="+this.uid+";Pwd="+this.pwd+";SslMode="+this.sslmode+"");
+                postRepositorio.Excluir(id);
             }
             catch (Exception e)
             {
                 Console.WriteLine(e);
                 throw;
             }
-            */
         }
         
         [TestMethod]
         public void TesteProcurar()
         {
-            /*
-            Guid id = new Guid("13fe73b5-08bf-484f-9cbf-738f78426adf");
+            Guid id = new Guid("0b427809-e104-4226-913f-2d7acfb33a9a");
 
             try
             {
-                CategoriaRepositorio categoriaRepositorio = new CategoriaRepositorio("Server=localhost;Database=blogNetCore;Uid=root;Pwd=;SslMode=none");
-                categoriaRepositorio.Procurar(id);
+                PostRepositorio postRepositorio = new PostRepositorio("Server="+this.server+";Database="+this.database+";Uid="+this.uid+";Pwd="+this.pwd+";SslMode="+this.sslmode+"");
+                postRepositorio.Procurar(id);
             }
             catch (Exception e)
             {
                 Console.WriteLine(e);
                 throw;
             }
-            */
         }
     }
 }

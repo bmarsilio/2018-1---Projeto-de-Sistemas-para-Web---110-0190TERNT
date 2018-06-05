@@ -20,16 +20,30 @@ namespace blogNetCore.Repositorio
             {
                 conexao.Open();
 
-                MySqlCommand comando = new MySqlCommand();
+                using (var transacao = conexao.BeginTransaction())
+                {
+                    try
+                    {
+                        MySqlCommand comando = new MySqlCommand();
 
-                comando.CommandText = "INSERT INTO categoria (id, descricao) VALUES (@id, @descricao)";
+                        comando.CommandText = "INSERT INTO categoria (id, descricao) VALUES (@id, @descricao)";
 
-                comando.Connection = conexao;
+                        comando.Connection = conexao;
 
-                comando.Parameters.AddWithValue("id", categoria.id);
-                comando.Parameters.AddWithValue("descricao", categoria.descricao);
+                        comando.Parameters.AddWithValue("id", categoria.id);
+                        comando.Parameters.AddWithValue("descricao", categoria.descricao);
 
-                comando.ExecuteNonQuery();
+                        comando.ExecuteNonQuery();
+                        
+                        transacao.Commit();
+                    }
+                    catch (Exception e)
+                    {
+                        transacao.Rollback();
+
+                        throw new Exception(e.Message);
+                    } 
+                }
             }
         }
 
@@ -38,17 +52,29 @@ namespace blogNetCore.Repositorio
             using (MySqlConnection conexao = new MySqlConnection(this.connectionString))
             {
                 conexao.Open();
+                using (var transacao = conexao.BeginTransaction())
+                {
+                    try
+                    {
+                        MySqlCommand comando = new MySqlCommand();
 
-                MySqlCommand comando = new MySqlCommand();
+                        comando.CommandText = "UPDATE categoria SET descricao = @descricao WHERE id = @id";
 
-                comando.CommandText = "UPDATE categoria SET descricao = @descricao WHERE id = @id";
+                        comando.Connection = conexao;
 
-                comando.Connection = conexao;
+                        comando.Parameters.AddWithValue("id", categoria.id);
+                        comando.Parameters.AddWithValue("descricao", categoria.descricao);
 
-                comando.Parameters.AddWithValue("id", categoria.id);
-                comando.Parameters.AddWithValue("descricao", categoria.descricao);
+                        comando.ExecuteNonQuery();
+                        transacao.Commit();
+                    }
+                    catch (Exception e)
+                    {
+                        transacao.Rollback();
 
-                comando.ExecuteNonQuery();
+                        throw new Exception(e.Message);
+                    } 
+                }
             }
         }
 
@@ -58,15 +84,29 @@ namespace blogNetCore.Repositorio
             {
                 conexao.Open();
 
-                MySqlCommand comando = new MySqlCommand();
+                conexao.Open();
+                using (var transacao = conexao.BeginTransaction())
+                {
+                    try
+                    {
+                        MySqlCommand comando = new MySqlCommand();
 
-                comando.CommandText = "DELETE FROM categoria WHERE id = @id";
+                        comando.CommandText = "DELETE FROM categoria WHERE id = @id";
 
-                comando.Connection = conexao;
+                        comando.Connection = conexao;
 
-                comando.Parameters.AddWithValue("id", id);
+                        comando.Parameters.AddWithValue("id", id);
 
-                comando.ExecuteNonQuery();
+                        comando.ExecuteNonQuery();
+                        transacao.Commit();
+                    }
+                    catch (Exception e)
+                    {
+                        transacao.Rollback();
+
+                        throw new Exception(e.Message);
+                    } 
+                }
             }
         }
 
@@ -99,8 +139,8 @@ namespace blogNetCore.Repositorio
                     }
                 }
             }
-            return categoria;
 
+            return categoria;
         }
     }
 }

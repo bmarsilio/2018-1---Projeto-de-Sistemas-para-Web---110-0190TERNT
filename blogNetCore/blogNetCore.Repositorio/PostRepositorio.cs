@@ -21,68 +21,108 @@ namespace blogNetCore.Repositorio
             {
                 conexao.Open();
 
-                MySqlCommand comando = new MySqlCommand();
+                using (var transacao = conexao.BeginTransaction())
+                {
+                    try
+                    {
+                        MySqlCommand comando = new MySqlCommand();
 
-                comando.CommandText = "INSERT INTO post (id, categoria_id, titulo, conteudo, resumo, tag) VALUES (@id, @categoria_id, @titulo, @conteudo, @resumo, @tag)";
+                        comando.CommandText = "INSERT INTO post (id, categoria_id, titulo, conteudo, resumo, tag) VALUES (@id, @categoria_id, @titulo, @conteudo, @resumo, @tag)";
 
-                comando.Connection = conexao;
+                        comando.Connection = conexao;
+                        comando.Transaction = transacao;
 
-                comando.Parameters.AddWithValue("id", post.id);
-                comando.Parameters.AddWithValue("categoria_id", post.categoria_id);
-                comando.Parameters.AddWithValue("titulo", post.titulo);
-                comando.Parameters.AddWithValue("conteudo", post.conteudo);
-                comando.Parameters.AddWithValue("resumo", post.resumo);
-                comando.Parameters.AddWithValue("tag", post.tag);
+                        comando.Parameters.AddWithValue("id", post.id);
+                        comando.Parameters.AddWithValue("categoria_id", post.categoria_id);
+                        comando.Parameters.AddWithValue("titulo", post.titulo);
+                        comando.Parameters.AddWithValue("conteudo", post.conteudo);
+                        comando.Parameters.AddWithValue("resumo", post.resumo);
+                        comando.Parameters.AddWithValue("tag", post.tag);
 
-                comando.ExecuteNonQuery();
+                        comando.ExecuteNonQuery();
+                        
+                        transacao.Commit();
+                    }
+                    catch (Exception e)
+                    {
+                        transacao.Rollback();
+
+                        throw new Exception(e.Message);
+                    } 
+                }
+                
             }
         }
 
         public void Alterar(Post post)
         {
-            /*
             using (MySqlConnection conexao = new MySqlConnection(this.connectionString))
             {
                 conexao.Open();
+                using (var transacao = conexao.BeginTransaction())
+                {
+                    try
+                    {
+                        MySqlCommand comando = new MySqlCommand();
 
-                MySqlCommand comando = new MySqlCommand();
+                        comando.CommandText = "UPDATE post SET categoria_id = @categoria_id, titulo = @titulo, conteudo = @conteudo, resumo = @resumo, tag = @tag WHERE id = @id";
 
-                comando.CommandText = "UPDATE categoria SET descricao = @descricao WHERE id = @id";
+                        comando.Connection = conexao;
 
-                comando.Connection = conexao;
+                        comando.Parameters.AddWithValue("id", post.id);
+                        comando.Parameters.AddWithValue("categoria_id", post.categoria_id);
+                        comando.Parameters.AddWithValue("titulo", post.titulo);
+                        comando.Parameters.AddWithValue("conteudo", post.conteudo);
+                        comando.Parameters.AddWithValue("resumo", post.resumo);
+                        comando.Parameters.AddWithValue("tag", post.tag);
 
-                comando.Parameters.AddWithValue("id", categoria.id);
-                comando.Parameters.AddWithValue("descricao", categoria.descricao);
+                        comando.ExecuteNonQuery();
+                        transacao.Commit();
+                    }
+                    catch (Exception e)
+                    {
+                        transacao.Rollback();
 
-                comando.ExecuteNonQuery();
+                        throw new Exception(e.Message);
+                    } 
+                }
             }
-            */
         }
 
         public void Excluir(Guid id)
         {
-            /*
             using (MySqlConnection conexao = new MySqlConnection(this.connectionString))
             {
                 conexao.Open();
 
-                MySqlCommand comando = new MySqlCommand();
+                using (var transacao = conexao.BeginTransaction())
+                {
+                    try
+                    {
+                        MySqlCommand comando = new MySqlCommand();
 
-                comando.CommandText = "DELETE FROM categoria WHERE id = @id";
+                        comando.CommandText = "DELETE FROM post WHERE id = @id";
 
-                comando.Connection = conexao;
+                        comando.Connection = conexao;
 
-                comando.Parameters.AddWithValue("id", id);
+                        comando.Parameters.AddWithValue("id", id);
 
-                comando.ExecuteNonQuery();
+                        comando.ExecuteNonQuery();
+                        transacao.Commit();
+                    }
+                    catch (Exception e)
+                    {
+                        transacao.Rollback();
+
+                        throw new Exception(e.Message);
+                    } 
+                }
             }
-            */
         }
 
         public Post Procurar(Guid id)
         {
-            /*
-            Categoria categoria = null;
+            Post post = null;
             
             using (MySqlConnection conexao = new MySqlConnection(this.connectionString))
             {
@@ -90,7 +130,7 @@ namespace blogNetCore.Repositorio
 
                 MySqlCommand comando = new MySqlCommand();
 
-                comando.CommandText = "SELECT * FROM categoria WHERE id = @id";
+                comando.CommandText = "SELECT * FROM post WHERE id = @id";
 
                 comando.Connection = conexao;
 
@@ -100,19 +140,21 @@ namespace blogNetCore.Repositorio
 
                 if (reader.HasRows)
                 {
-                    categoria = new Categoria();
+                    post = new Post();
                     
                     while (reader.Read())
                     {
-                        categoria.id = reader.GetGuid(0);
-                        categoria.descricao = reader.GetString(1);
+                        post.id = reader.GetGuid(0);
+                        post.categoria_id = reader.GetGuid(1);
+                        post.titulo = reader.GetString(2);
+                        post.conteudo = reader.GetString(3);
+                        post.resumo = reader.GetString(4);
+                        post.tag = reader.GetString(5);
                     }
                 }
             }
-            
-            return categoria;
-            */
-            return null;
+
+            return post;
         }
     }
 }
