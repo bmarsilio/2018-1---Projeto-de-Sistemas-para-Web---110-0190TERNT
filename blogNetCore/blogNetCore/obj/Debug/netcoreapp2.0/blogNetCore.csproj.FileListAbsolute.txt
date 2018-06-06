@@ -38,3 +38,10 @@
 /home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore/obj/Debug/netcoreapp2.0/es-ES/blogNetCore.resources.dll
 /home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.dll
 /home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.pdb
+/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore/bin/Debug/netcoreapp2.0/blogNetCore.Aplicacao.dll
+/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore/bin/Debug/netcoreapp2.0/blogNetCore.Dominio.dll
+/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore/bin/Debug/netcoreapp2.0/blogNetCore.Repositorio.dll
+/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore/bin/Debug/netcoreapp2.0/blogNetCore.Aplicacao.pdb
+/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore/bin/Debug/netcoreapp2.0/blogNetCore.Dominio.pdb
+/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore/bin/Debug/netcoreapp2.0/blogNetCore.Repositorio.pdb
+/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.csproj.CopyComplete

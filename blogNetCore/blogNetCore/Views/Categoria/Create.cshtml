@@ -1,6 +1,8 @@
 ﻿@{
     Layout = "_LayoutAdmin";
 }
+@model blogNetCore.Models.Categoria
+
 
 <div class="container">
     
@@ -8,12 +10,12 @@
     
     <hr />
     
-    <form action="#" method="POST">
+    <form action="/Categoria/Insert" method="POST">
         
         <div class="form-group">
             
             <label for="descricao">@blogNetCore.Internacionalizacao.traducao.descricao: *</label>
-            <input type="text" class="form-control" name="descricao" id="descricao" data-val="true" required="required" data-val-required="@blogNetCore.Internacionalizacao.traducao.campo_obrigatorio"/>
+            <input type="text" class="form-control" name="categoria.Descricao" id="descricao" data-val="true" required="required" data-val-required="@blogNetCore.Internacionalizacao.traducao.campo_obrigatorio"/>
             <span class="text-danger field-validation-valid" data-valmsg-for="descricao" data-valmsg-replace="true"></span>
           
         </div>

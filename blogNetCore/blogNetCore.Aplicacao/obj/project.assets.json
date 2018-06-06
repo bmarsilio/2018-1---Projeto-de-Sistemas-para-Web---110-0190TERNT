@@ -196,6 +196,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "blogNetCore.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/blogNetCore.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/blogNetCore.Dominio.dll": {}
+        }
       }
     }
   },
@@ -656,11 +666,17 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "blogNetCore.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../blogNetCore.Dominio/blogNetCore.Dominio.csproj",
+      "msbuildProject": "../blogNetCore.Dominio/blogNetCore.Dominio.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "Microsoft.NETCore.App >= 2.0.0"
+      "Microsoft.NETCore.App >= 2.0.0",
+      "blogNetCore.Dominio >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -690,7 +706,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore.Dominio/blogNetCore.Dominio.csproj": {
+              "projectPath": "/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore.Dominio/blogNetCore.Dominio.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -10,4 +10,9 @@
   <ItemGroup>
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.2" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\blogNetCore.Aplicacao\blogNetCore.Aplicacao.csproj" />
+    <ProjectReference Include="..\blogNetCore.Dominio\blogNetCore.Dominio.csproj" />
+    <ProjectReference Include="..\blogNetCore.Repositorio\blogNetCore.Repositorio.csproj" />
+  </ItemGroup>
 </Project>

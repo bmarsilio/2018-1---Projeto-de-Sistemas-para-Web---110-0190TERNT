@@ -1,13 +1,11 @@
 ﻿using System;
-using System.ComponentModel.DataAnnotations;
 
-namespace blogNetCore.Dominio.Entidades.Categorias
+namespace blogNetCore.Aplicacao.Dto
 {
-    public class Categoria
+    public class CategoriaDto
     {
         public Guid id { get; set; }
         
         public string descricao { get; set; }
-
     }
 }

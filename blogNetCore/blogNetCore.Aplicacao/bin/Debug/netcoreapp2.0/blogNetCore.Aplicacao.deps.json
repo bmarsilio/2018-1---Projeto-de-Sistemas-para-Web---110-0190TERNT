@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v2.0": {
       "blogNetCore.Aplicacao/1.0.0": {
+        "dependencies": {
+          "blogNetCore.Dominio": "1.0.0"
+        },
         "runtime": {
           "blogNetCore.Aplicacao.dll": {}
+        }
+      },
+      "blogNetCore.Dominio/1.0.0": {
+        "runtime": {
+          "blogNetCore.Dominio.dll": {}
         }
       }
     }
   },
   "libraries": {
     "blogNetCore.Aplicacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "blogNetCore.Dominio/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
