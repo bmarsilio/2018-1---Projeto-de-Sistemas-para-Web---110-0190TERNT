@@ -1,12 +1,12 @@
+using System;
 using System.ComponentModel.DataAnnotations;
-using System.Numerics;
 
 namespace blogNetCore.Models
 {
     public class Post
     {
         [Required]
-        public int categoria_id { get; set; }
+        public Guid categoria_id { get; set; }
         
         [Required]
         public string titulo { get; set; }
@@ -17,6 +17,8 @@ namespace blogNetCore.Models
         public string resumo { get; set; }
 
         public string tag { get; set; }
+        
+        public Guid id { get; set; }
 
     }
 }

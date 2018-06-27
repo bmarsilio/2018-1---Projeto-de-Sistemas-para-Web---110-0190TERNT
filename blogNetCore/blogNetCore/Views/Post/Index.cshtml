@@ -12,23 +12,24 @@
         
         <thead>
         <tr>
-            <th>#</th>
-            <th>@blogNetCore.Internacionalizacao.traducao.categoria</th>
             <th>@blogNetCore.Internacionalizacao.traducao.titulo</th>
             <th></th>
         </tr>
         </thead>
         
         <tbody>
-        <tr>
-            <td>1</td>
-            <td>Categoria 1</td>
-            <td>Título 1</td>
-            <td>
-                <a href="/Post/Edit" class="btn btn-primary">@blogNetCore.Internacionalizacao.traducao.editar</a>
-                <button class="btn btn-danger" onclick="confirmaExclusao()">@blogNetCore.Internacionalizacao.traducao.excluir</button>
-            </td>
-        </tr>
+        
+        @foreach (var item in ((List<Post>) ViewData["posts"]))
+        {
+            <tr>
+                <td>@item.titulo</td>
+                <td>
+                    <a href="/Post/Edit/@item.id" class="btn btn-primary">@blogNetCore.Internacionalizacao.traducao.editar</a>
+                    <button class="btn btn-danger" onclick="confirmaExclusao('@item.id')">@blogNetCore.Internacionalizacao.traducao.excluir</button>
+                </td>
+            </tr>
+        }
+
         </tbody>
         
     </table>
@@ -37,7 +38,7 @@
 
 <script>
 
-    function confirmaExclusao() {
+    function confirmaExclusao(id) {
 
         swal({
             title: 'ATENÇÃO!',
@@ -49,15 +50,7 @@
             confirmButtonText: 'Confirmar',
             cancelButtonText: 'Cancelar'
         }).then(function () {
-            swal({
-                title: 'Ok!',
-                text: 'Registro excluído com sucesso!',
-                type: 'success',
-                allowOutsideClick: false,
-                allowEscapeKey:false
-            }).then(function () {
-                location.reload();
-            });
+            window.location = '/Post/Delete/' + id;
         });
 
     }

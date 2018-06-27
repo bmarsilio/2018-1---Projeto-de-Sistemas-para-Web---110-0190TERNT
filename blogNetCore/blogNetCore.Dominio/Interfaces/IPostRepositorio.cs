@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using blogNetCore.Dominio.Entidades.Posts;
 
 namespace blogNetCore.Dominio.Interfaces
@@ -13,6 +14,8 @@ namespace blogNetCore.Dominio.Interfaces
         void Excluir(Guid id);
         
         Post Procurar(Guid id);
+
+        List<Post> Listar();
 
     }
 }

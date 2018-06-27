@@ -8,39 +8,55 @@
     
     <hr />
     
-    <form action="#" method="POST">
+    <form action="/Post/Update" method="POST">
         
         <div class="form-group">
             
+            @{
+                var post = (Post) ViewData["post"];
+                var categorias = (List<Categoria>) ViewData["categorias"];
+            }
+
             <label for="categoria">@blogNetCore.Internacionalizacao.traducao.categoria: *</label>
-            <select class="form-control" name="categoria" id="categoria" data-val="true" required="required" data-val-required="@blogNetCore.Internacionalizacao.traducao.campo_obrigatorio">
-                <option>Categoria 1</option>
-                <option>Categoria 2</option>
+            <select class="form-control" name="post.categoria_id" id="categoria" data-val="true" required="required" data-val-required="@blogNetCore.Internacionalizacao.traducao.campo_obrigatorio">
+                @foreach(var item in categorias)
+                {
+                    if (item.id == post.categoria_id)
+                    {
+                        <option value="@item.id" selected="selected">@item.descricao</option>
+                    }
+                    else
+                    {
+                        <option value="@item.id">@item.descricao</option>
+                    }
+                }
             </select>
             <span class="text-danger field-validation-valid" data-valmsg-for="categoria" data-valmsg-replace="true"></span>
-            
+
         </div>
+        
+        <input type="hidden" name="post.id" value="@post.id"/>
         
         <div class="form-group">
             <label for="titulo">@blogNetCore.Internacionalizacao.traducao.titulo: *</label>
-            <input type="text" class="form-control" name="titulo" id="titulo" data-val="true" required="required" data-val-required="@blogNetCore.Internacionalizacao.traducao.campo_obrigatorio" value="titulo 1"/>
+            <input type="text" class="form-control" name="post.titulo" id="titulo" data-val="true" required="required" data-val-required="@blogNetCore.Internacionalizacao.traducao.campo_obrigatorio" value="@post.titulo"/>
             <span class="text-danger field-validation-valid" data-valmsg-for="titulo" data-valmsg-replace="true"></span>
         </div>
         
         <div class="form-group">
             <label for="conteudo">@blogNetCore.Internacionalizacao.traducao.conteudo: *</label>
-            <textarea class="form-control" name="conteudo" id="conteudo" data-val="true" required="required" data-val-required="@blogNetCore.Internacionalizacao.traducao.campo_obrigatorio">conteudo 1</textarea>
+            <textarea class="form-control" name="post.conteudo" id="conteudo" data-val="true" required="required" data-val-required="@blogNetCore.Internacionalizacao.traducao.campo_obrigatorio">@post.conteudo</textarea>
             <span class="text-danger field-validation-valid" data-valmsg-for="conteudo" data-valmsg-replace="true"></span>
         </div>
         
         <div class="form-group">
             <label for="resumo">@blogNetCore.Internacionalizacao.traducao.resumo:</label>
-            <textarea class="form-control" name="resumo">resumo 1</textarea>
+            <textarea class="form-control" name="post.resumo">@post.resumo</textarea>
         </div>
         
         <div class="form-group">
             <label for="tag">@blogNetCore.Internacionalizacao.traducao.tag: </label>
-            <input type="text" class="form-control" name="tag" value="tag1"/>
+            <input type="text" class="form-control" name="post.tag" value="@post.tag"/>
         </div>
         
         <hr />

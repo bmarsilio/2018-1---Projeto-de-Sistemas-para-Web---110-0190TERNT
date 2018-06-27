@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using blogNetCore.Dominio.Entidades.Categorias;
 using blogNetCore.Dominio.Entidades.Posts;
 using blogNetCore.Dominio.Interfaces;
@@ -155,6 +156,43 @@ namespace blogNetCore.Repositorio
             }
 
             return post;
+        }
+        
+        public List<Post> Listar()
+        {
+            List<Post> posts = new List<Post>();
+            
+            using (MySqlConnection conexao = new MySqlConnection(this.connectionString))
+            {
+                conexao.Open();
+
+                MySqlCommand comando = new MySqlCommand();
+
+                comando.CommandText = "SELECT * FROM post";
+
+                comando.Connection = conexao;
+
+                MySqlDataReader reader = comando.ExecuteReader();
+
+                if (reader.HasRows)
+                { 
+                    while (reader.Read())
+                    {
+                        var post = new Post();
+                        
+                        post.id = Guid.Parse(reader["id"].ToString());
+                        post.categoria_id = Guid.Parse(reader["categoria_id"].ToString());
+                        post.titulo = reader["titulo"].ToString();
+                        post.conteudo = reader["conteudo"].ToString();
+                        post.resumo = reader["resumo"].ToString();
+                        post.tag = reader["tag"].ToString();
+                        
+                        posts.Add(post);
+                    }
+                }
+            }
+
+            return posts;
         }
     }
 }
