@@ -1,3 +1,4 @@
+using System;
 using System.ComponentModel.DataAnnotations;
 
 namespace blogNetCore.Models
@@ -6,6 +7,8 @@ namespace blogNetCore.Models
     {
         [Required]
         public string descricao { get; set; }
+
+        public Guid id { get; set; }
 
     }
 }

@@ -9,7 +9,8 @@ namespace blogNetCore.Mapping
         {
             return new Categoria()
             {
-                descricao = categoriaDto.descricao
+                descricao = categoriaDto.descricao,
+                id = categoriaDto.id
             };
         }
 
@@ -17,7 +18,8 @@ namespace blogNetCore.Mapping
         {
             return new CategoriaDto()
             {
-                descricao = categoria.descricao
+                descricao = categoria.descricao,
+                id = categoria.id
             };
         }
     }

@@ -1,4 +1,5 @@
-﻿@{
+﻿@using System.Runtime.InteropServices.ComTypes
+@{
     Layout = "_LayoutAdmin";
 }
 
@@ -8,14 +9,20 @@
     
     <hr />
     
-    <form action="#" method="POST">
+    <form action="/Categoria/Update" method="POST">
         
         <div class="form-group">
             
-            <label for="descricao">@blogNetCore.Internacionalizacao.traducao.descricao: *</label>
-            <input type="text" class="form-control" name="descricao" id="descricao" data-val="true" required="required" data-val-required="@blogNetCore.Internacionalizacao.traducao.campo_obrigatorio" value="categoria 1"/>
-            <span class="text-danger field-validation-valid" data-valmsg-for="descricao" data-valmsg-replace="true"></span>
+            @{
+                var categ = (Categoria) ViewData["categoria"];
+            }
+
+            <input type="hidden" name="categoria.Id" value="@categ.id"/>
             
+            <label for="descricao">@blogNetCore.Internacionalizacao.traducao.descricao: *</label>
+            <input type="text" class="form-control" name="categoria.Descricao" id="descricao" data-val="true" required="required" data-val-required="@blogNetCore.Internacionalizacao.traducao.campo_obrigatorio" value="@categ.descricao"/>
+            <span class="text-danger field-validation-valid" data-valmsg-for="descricao" data-valmsg-replace="true"></span>
+
         </div>
         
         <hr />

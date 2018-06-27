@@ -2,6 +2,7 @@
     Layout = "_LayoutAdmin";
 }
 
+
 <div class="container">
     
     <a href="/Categoria/Create" class="btn btn-default">@blogNetCore.Internacionalizacao.traducao.nova_categoria</a>
@@ -12,21 +13,23 @@
         
         <thead>
         <tr>
-            <th>#</th>
             <th>@blogNetCore.Internacionalizacao.traducao.descricao</th>
             <th></th>
         </tr>
         </thead>
         
         <tbody>
-        <tr>
-            <td>1</td>
-            <td>Categoria 1</td>
-            <td>
-                <a href="/Categoria/Edit" class="btn btn-primary">@blogNetCore.Internacionalizacao.traducao.editar</a>
-                <button class="btn btn-danger" onclick="confirmaExclusao()">@blogNetCore.Internacionalizacao.traducao.excluir</button>
-            </td>
-        </tr>
+        @foreach (var item in ((List<Categoria>) ViewData["categorias"]))
+        {
+            <tr>
+                <td>@item.descricao</td>
+                <td>
+                    <a href="/Categoria/Edit/@item.id" class="btn btn-primary">@blogNetCore.Internacionalizacao.traducao.editar</a>
+                    <button class="btn btn-danger" onclick="confirmaExclusao('@item.id')">@blogNetCore.Internacionalizacao.traducao.excluir</button>
+                </td>
+            </tr>   
+        }
+        
         </tbody>
         
     </table>
@@ -35,7 +38,7 @@
 
 <script>
 
-    function confirmaExclusao() {
+    function confirmaExclusao(id) {
 
         swal({
             title: 'ATENÇÃO!',
@@ -47,15 +50,7 @@
             confirmButtonText: 'Confirmar',
             cancelButtonText: 'Cancelar'
         }).then(function () {
-            swal({
-                title: 'Ok!',
-                text: 'Registro excluído com sucesso!',
-                type: 'success',
-                allowOutsideClick: false,
-                allowEscapeKey:false
-            }).then(function () {
-                location.reload();
-            });
+            window.location = '/Categoria/Delete/' + id;
         });
 
     }

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using blogNetCore.Dominio.Entidades.Categorias;
 using blogNetCore.Dominio.Interfaces;
 using MySql.Data.MySqlClient;
@@ -83,8 +84,6 @@ namespace blogNetCore.Repositorio
             using (MySqlConnection conexao = new MySqlConnection(this.connectionString))
             {
                 conexao.Open();
-
-                conexao.Open();
                 using (var transacao = conexao.BeginTransaction())
                 {
                     try
@@ -141,6 +140,39 @@ namespace blogNetCore.Repositorio
             }
 
             return categoria;
+        }
+
+        public List<Categoria> Listar()
+        {
+            List<Categoria> categorias = new List<Categoria>();
+            
+            using (MySqlConnection conexao = new MySqlConnection(this.connectionString))
+            {
+                conexao.Open();
+
+                MySqlCommand comando = new MySqlCommand();
+
+                comando.CommandText = "SELECT * FROM categoria";
+
+                comando.Connection = conexao;
+
+                MySqlDataReader reader = comando.ExecuteReader();
+
+                if (reader.HasRows)
+                { 
+                    while (reader.Read())
+                    {
+                        var categoria = new Categoria();
+                        
+                        categoria.id = Guid.Parse(reader["id"].ToString());
+                        categoria.descricao = reader["descricao"].ToString();
+                        
+                        categorias.Add(categoria);
+                    }
+                }
+            }
+
+            return categorias;
         }
     }
 }
