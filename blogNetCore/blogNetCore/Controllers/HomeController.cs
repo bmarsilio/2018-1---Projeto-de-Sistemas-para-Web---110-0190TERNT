@@ -5,19 +5,44 @@ using System.Linq;
 using System.Net;
 using System.Net.Mail;
 using System.Threading.Tasks;
+using blogNetCore.Aplicacao;
+using blogNetCore.Mapping;
 using Microsoft.AspNetCore.Mvc;
 using blogNetCore.Models;
+using blogNetCore.Repositorio;
+using Microsoft.Extensions.Configuration;
 using MimeKit;
 
 namespace blogNetCore.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly IConfiguration configuration;
+
+        public HomeController(IConfiguration config)
+        {
+            this.configuration = config;
+        }
+        
         public IActionResult Index()
         {
             ViewData["title"] = "Home";
+            ViewBag.titulo = "Blog .NET Core";
             ViewBag.subtitulo = "Home";
             ViewBag.imagemFundo = "home-bg.jpg";
+            
+            PostRepositorio postRepositorio = new PostRepositorio(this.configuration.GetConnectionString("default"));
+            PostAplicacao postAplicacao = new PostAplicacao(postRepositorio);
+
+            var postDtos = postAplicacao.Listar();
+
+            List<Post> posts = new List<Post>();
+            foreach (var post in postDtos)
+            {
+                posts.Add(PostMapping.toModel(post));
+            }
+            
+            ViewData["posts"] = posts;
             
             return View();
         }
@@ -57,11 +82,21 @@ namespace blogNetCore.Controllers
             return RedirectToAction("Contato");
         }
         
-        public IActionResult Post()
+        public IActionResult Post(Guid id)
         {
-            ViewData["title"] = "Post";
-            ViewBag.subtitulo = "Post 123";
+            PostRepositorio postRepositorio = new PostRepositorio(this.configuration.GetConnectionString("default"));
+            PostAplicacao postAplicacao = new PostAplicacao(postRepositorio);
+
+            var postDto = postAplicacao.Procurar(id);
+
+            var post = PostMapping.toModel(postDto);
+            
+            ViewData["title"] = post.titulo;
+            ViewBag.titulo = post.titulo;
+            ViewBag.subtitulo = post.resumo;
             ViewBag.imagemFundo = "post-bg.jpg";
+            
+            ViewData["post"] = post;
             
             return View();
         }

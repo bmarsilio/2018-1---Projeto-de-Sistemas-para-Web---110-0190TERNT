@@ -33,18 +33,18 @@
         
         <div class="form-group">
             <label for="conteudo">@blogNetCore.Internacionalizacao.traducao.conteudo: *</label>
-            <textarea class="form-control" name="post.Conteudo" id="conteudo" data-val="true" required="required" data-val-required="@blogNetCore.Internacionalizacao.traducao.campo_obrigatorio"></textarea>
+            <textarea class="form-control ckeditor" name="post.Conteudo" id="conteudo" data-val="true" required="required" data-val-required="@blogNetCore.Internacionalizacao.traducao.campo_obrigatorio"></textarea>
             <span class="text-danger field-validation-valid" data-valmsg-for="conteudo" data-valmsg-replace="true"></span>
         </div>
         
         <div class="form-group">
-            <label for="resumo">@blogNetCore.Internacionalizacao.traducao.resumo:</label>
-            <textarea class="form-control" name="post.Resumo"></textarea>
+            <label for="resumo">@blogNetCore.Internacionalizacao.traducao.resumo: *</label>
+            <textarea class="form-control" name="post.Resumo" required="required"></textarea>
         </div>
         
         <div class="form-group">
-            <label for="tag">@blogNetCore.Internacionalizacao.traducao.tag: </label>
-            <input type="text" class="form-control" name="post.Tag" />
+            <label for="tag">@blogNetCore.Internacionalizacao.traducao.tag: *</label>
+            <input type="text" class="form-control" name="post.Tag" required="required"/>
         </div>
         
         <hr />
