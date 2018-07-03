@@ -44,3 +44,4 @@
 /home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore/bin/Debug/netcoreapp2.0/blogNetCore.Aplicacao.pdb
 /home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore/bin/Debug/netcoreapp2.0/blogNetCore.Dominio.pdb
 /home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.csproj.CopyComplete
+/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/blogNetCore/blogNetCore/bin/Debug/netcoreapp2.0/blogNetCore.Repositorio.pdb
