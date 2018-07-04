@@ -4,20 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/blogNetCore/Controllers/CategoriaController.cs" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27c3c2fe-3be7-4261-9ae7-1469b368cfca" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../Ftec.ProjetoTeste/.idea/.idea.Ftec.ProjetoTeste/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ftec.ProjetoTeste/.idea/.idea.Ftec.ProjetoTeste/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ftec.ProjetoTeste/.idea/.idea.Ftec.ProjetoTeste/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ftec.ProjetoTeste/.idea/.idea.Ftec.ProjetoTeste/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/obj/Ftec.ProjetoTeste.Web.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/obj/Ftec.ProjetoTeste.Web.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/obj/Ftec.ProjetoTeste.Web.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/obj/Ftec.ProjetoTeste.Web.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/obj/Ftec.ProjetoTeste.Web.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/obj/Ftec.ProjetoTeste.Web.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.blogNetCore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.blogNetCore/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogNetCore/bin/Debug/netcoreapp2.0/publish/blogNetCore.PrecompiledViews.dll" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/bin/Debug/netcoreapp2.0/publish/blogNetCore.PrecompiledViews.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogNetCore/bin/Debug/netcoreapp2.0/publish/blogNetCore.PrecompiledViews.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/bin/Debug/netcoreapp2.0/publish/blogNetCore.PrecompiledViews.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.PrecompiledViews.dll" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.PrecompiledViews.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.PrecompiledViews.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/blogNetCore/obj/Debug/netcoreapp2.0/blogNetCore.PrecompiledViews.pdb" afterDir="false" />
-    </list>
+    <list default="true" id="27c3c2fe-3be7-4261-9ae7-1469b368cfca" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -256,7 +243,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="764" />
+    <option name="y" value="-4" />
     <option name="width" value="1366" />
     <option name="height" value="772" />
   </component>
@@ -365,12 +352,12 @@
       <workItem from="1528236340078" duration="9102000" />
       <workItem from="1530051474450" duration="9636000" />
       <workItem from="1530577113594" duration="6502000" />
-      <workItem from="1530655418748" duration="5492000" />
+      <workItem from="1530655418748" duration="5826000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58961000" />
+    <option name="totallyTimeSpent" value="59295000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -382,7 +369,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="764" width="1366" height="772" extended-state="6" />
+    <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
