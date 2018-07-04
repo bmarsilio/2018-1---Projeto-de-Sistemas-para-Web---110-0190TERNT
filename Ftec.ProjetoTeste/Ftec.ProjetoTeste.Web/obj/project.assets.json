@@ -12649,11 +12649,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/brunomarsilio/RiderProjects/Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/Ftec.ProjetoTeste.Web.csproj",
+      "projectUniqueName": "/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/Ftec.ProjetoTeste.Web.csproj",
       "projectName": "Ftec.ProjetoTeste.Web",
-      "projectPath": "/home/brunomarsilio/RiderProjects/Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/Ftec.ProjetoTeste.Web.csproj",
+      "projectPath": "/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/Ftec.ProjetoTeste.Web.csproj",
       "packagesPath": "/home/brunomarsilio/.nuget/packages/",
-      "outputPath": "/home/brunomarsilio/RiderProjects/Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/obj/",
+      "outputPath": "/home/brunomarsilio/www/bruno/2018-1---Projeto-de-Sistemas-para-Web---110-0190TERNT/Ftec.ProjetoTeste/Ftec.ProjetoTeste.Web/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
